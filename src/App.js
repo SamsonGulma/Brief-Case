@@ -1,4 +1,5 @@
 import './App.css';
+import './'
 
 function App() {
   return (
@@ -13,7 +14,13 @@ function App() {
 
       <div className='sam'>Sam</div>
 
-      <div className=''></div>
+      <div className='picture'>
+        {
+          <img src= {}>
+            
+        };
+          
+      </div>
 
     </div>
   );
