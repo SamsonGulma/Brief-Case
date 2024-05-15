@@ -39,7 +39,12 @@
   left: 15%;
   border-radius: 20px;
   rotate: 5deg;
-  padding: 50%;
+  
   color: white;
   background-color: rgb(249, 84, 84);
+}
+
+.hey code{
+  padding: 55px;
+  align-items: center;
 }
