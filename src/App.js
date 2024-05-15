@@ -14,7 +14,7 @@ function App() {
         <p> Hey there, I'm Samson</p>
       </div>
 
-      <button />
+      <button content='Sam'/>
 
       <div className=''></div>
 
