@@ -1,5 +1,5 @@
 import './App.css';
-import './assets/picture.jpg'
+import picture from './assets/picturei.jpg'
 
 function App() {
   return (
@@ -14,13 +14,7 @@ function App() {
 
       <div className='sam'>Sam</div>
 
-      <div className='picture'>
-        {
-          <img src= {}>
-            
-        };
-          
-      </div>
+      <img className='pic' src={picture} alt=''/>
 
     </div>
   );
