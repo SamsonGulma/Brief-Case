@@ -16,13 +16,13 @@
 
 .App-header .sgt{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 7rem;
+  font-size: 8rem;
   font-weight: 500;
   text-decoration: solid;
   word-spacing: 2px;
   text-align: right;
   position: absolute;
-  right: 10%;
-  top: 22%;
+  right: 20%;
+  top: 15%;
   color: black;
 }
