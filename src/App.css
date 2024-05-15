@@ -33,18 +33,19 @@
 
 .hey{
   width: 150px;
-  height: 170px;
+  height: 190px;
   position: absolute;
-  top: 5%;
+  top: -3%;
   left: 15%;
-  border-radius: 20px;
-  rotate: 5deg;
-  
+  border-radius: 40px;
+  rotate: 19deg;
   color: white;
   background-color: rgb(249, 84, 84);
 }
 
-.hey code{
-  padding: 55px;
+.hey p{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  padding: 40px;
   align-items: center;
 }

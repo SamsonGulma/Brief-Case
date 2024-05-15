@@ -11,12 +11,9 @@ function App() {
       <img className='pic' src={picture} alt=''/>
 
       <div className='hey'>
-        <code>
-          `
-          
+        <p>
           Hey there, I'm Samson
-            `
-        </code>
+        </p>
       </div>
 
       <div className='sam'>Sam</div>
