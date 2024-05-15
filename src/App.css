@@ -23,9 +23,10 @@
 
 .pic{
   width: 150px;
-  height: 160px;
+  height: 170px;
   position: absolute;
-  top: 10%;
+  top: 15%;
   left: 20%;
   border-radius: 20px;
+  rotate: 7deg;
 }
