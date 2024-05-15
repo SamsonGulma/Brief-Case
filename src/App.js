@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Software Engineering Student at ASTU
-        
+        Software Engineering <b/> Student at ASTU
+
       </header>
     </div>
   );
