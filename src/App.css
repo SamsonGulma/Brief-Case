@@ -51,8 +51,8 @@
 }
 
 .sam {
-  width: 50px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
   position: absolute;
   top: 40%;
   left: 10%;
@@ -64,7 +64,8 @@
 .sam p {
   font-family: 'Times New Roman', Times, serif;
   font-size: large;
-  padding: 10px;
+  font-weight: bold;
+  padding: 13px;
   align-items: center;
 }
 
