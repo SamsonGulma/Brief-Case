@@ -16,7 +16,7 @@ function App() {
         </p>
       </div>
 
-      <div className='sam'>Sam</div>
+      <div className='sam'><p>Sam</p></div>
 
 
     </div>

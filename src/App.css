@@ -56,7 +56,15 @@
   position: absolute;
   top: 40%;
   left: 10%;
-  rotate: 7deg;
+  rotate: -7deg;
   color: white;
   background-color: black;
 }
+
+.sam p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  padding: 10px;
+  align-items: center;
+}
+
