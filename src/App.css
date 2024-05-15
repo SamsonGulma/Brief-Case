@@ -23,4 +23,9 @@
 
 .pic{
   width: 150px;
+  height: 160px;
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  border-radius: 20px;
 }
