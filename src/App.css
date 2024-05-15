@@ -4,6 +4,7 @@
 }
 
 .App-header {
+  font-family: 'Times New Roman', Times;
   background-color: transparent;
   float: right;
   flex: auto;
