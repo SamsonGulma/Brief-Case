@@ -8,13 +8,15 @@ function App() {
           Software<br />Engineering <br /> Student <br /> at ASTU 
       </div>
 
-      <img className='pic' src={picture} alt=''/>
-
       <div className='hey'>
         <p>
           Hey there, I'm Samson
         </p>
       </div>
+
+      <img className='pic' src={picture} alt=''/>
+
+      
 
       <div className='sam'><p>Sam</p></div>
 
