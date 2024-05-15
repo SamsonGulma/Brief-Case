@@ -30,3 +30,16 @@
   border-radius: 20px;
   rotate: 7deg;
 }
+
+.hey{
+  width: 150px;
+  height: 170px;
+  position: absolute;
+  top: 5%;
+  left: 15%;
+  border-radius: 20px;
+  rotate: 5deg;
+  padding: 50%;
+  color: white;
+  background-color: rgb(249, 84, 84);
+}
