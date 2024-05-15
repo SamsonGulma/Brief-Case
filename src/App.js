@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Software Engineering <b/> Student at ASTU
+        Software <br> Engineering </br> Student at ASTU
 
       </header>
     </div>
