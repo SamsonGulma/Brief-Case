@@ -9,6 +9,15 @@ function App() {
         </p>
           
       </div>
+
+      <div className='hey'>
+        <p> Hey there, I'm Samson</p>
+      </div>
+
+      <button />
+
+      <div className=''></div>
+
     </div>
   );
 }
