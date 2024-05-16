@@ -17,10 +17,14 @@ function App() {
 
       <img className='pic' src={picture} alt=''/>
       <div className='sam'><p>Sam</p></div>
-      <img className='linkedin' src={linkedIn} alt='' onClick={() => {
+      <img className='linkedin' src={linkedIn} alt=''
+        onClick={() => {
       
-      }} />
+        }} />
       
+      <div>
+        <button className='aboutme' title="aboutme"/>
+      </div>
 
     </div>
   );
