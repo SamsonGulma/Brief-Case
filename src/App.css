@@ -36,7 +36,9 @@
 
 .pic:hover{
   rotate: -7deg;
-  transition: 1s;
+  transition: 0.5s;
+  width: 250px;
+  height: 250px;
 }
 
 
