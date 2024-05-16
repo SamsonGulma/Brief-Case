@@ -79,3 +79,11 @@
   align-items: center;
 }
 
+.sam:hover{
+  color: aqua;
+  background-color: blue;
+  position: absolute;
+  top: 30%;
+  left: 7%;
+}
+
