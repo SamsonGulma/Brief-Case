@@ -109,16 +109,16 @@
   top: 80%;
   left: 5%;
   border-style: solid;
-  border-color: rgb(33, 34, 35);
+  border-color: rgb(146, 78, 242);
 }
 
 .aboutme{
   width: 150px;
   height: 60px;
   border: none;
-  font-size: large;
+  font-size: larger;
   color: white;
-  background-color: rgb(34, 34, 36);
+  background-color: rgb(60, 230, 242);
   align-items: center;
   border-radius: 30px;
 }
