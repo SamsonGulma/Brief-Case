@@ -125,3 +125,12 @@
   align-items: center;
   border-radius: 28px;
 }
+
+.intouch a{
+  text-decoration: none;
+  color: white;
+}
+
+.intouch{
+    background-color: rgb(42, 88, 144);
+}

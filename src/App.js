@@ -28,8 +28,8 @@ function App() {
         </button>
       </div>
 
-      <button className='intouch' onClick='www.gmail.com'>
-          Get In Touch
+      <button className='intouch'>
+          <a href="www.gmail.com">Get In Touch</a>
         </button>
 
     </div>
