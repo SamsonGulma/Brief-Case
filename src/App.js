@@ -23,7 +23,7 @@ function App() {
         }} />
       
       <div>
-        <button className='aboutme' content="aboutme"/>
+        <button className='aboutme' title="aboutme"/>
       </div>
 
     </div>
