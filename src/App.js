@@ -17,13 +17,8 @@ function App() {
 
       <img className='pic' src={picture} alt=''/>
       <div className='sam'><p>Sam</p></div>
-      <img className='linkedin' src={linkedIn} alt='' />
+      <img className='linkedin' src={linkedIn} alt='' onclick={console.log("clicked")} />
       
-      {
-        onclick(linkedIn, () => {
-          console.log("you clicked linkedIn Icon")
-        })
-      }
 
     </div>
   );
