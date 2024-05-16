@@ -28,6 +28,10 @@ function App() {
         </button>
       </div>
 
+      <button className='intouch' onClick='www.gmail.com'>
+          Get In Touch
+        </button>
+
     </div>
   );
 }
