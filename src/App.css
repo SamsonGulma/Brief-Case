@@ -103,13 +103,15 @@
 }
 
 .btn-about{
-  width: 100px;
-  height: 1rem;
+  width: 150px;
+  height: 60;
   position: absolute;
   top: 80%;
   left: 5%;
 }
 
 .aboutme{
-
+  width: 100px;
+  height: 40px;
+  align-items: center;
 }
