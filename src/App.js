@@ -17,7 +17,7 @@ function App() {
 
       <img className='pic' src={picture} alt=''/>
       <div className='sam'><p>Sam</p></div>
-      <img className='linkedin' src={linkedIn} alt='' onclick={console.log("clicked")} />
+      <img className='linkedin' src={linkedIn} alt='' onClick={console.log("clicked")} />
       
 
     </div>
