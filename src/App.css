@@ -91,14 +91,11 @@
 }
 
 .linkedin {
-  width: 80px;
-  height: 80px;
   position: absolute;
-  top: 40%;
-  left: 10%;
-  rotate: -7deg;
-  color: white;
-  background-color: black;
+  top: 60%;
+  left: 12%;
+  border-radius: 7px;
+  rotate: 7deg;
   box-shadow: 7px 7px 20px black;
   cursor: pointer;
 }
