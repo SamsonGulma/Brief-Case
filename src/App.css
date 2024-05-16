@@ -22,14 +22,14 @@
 }
 
 .pic{
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   position: absolute;
   top: 17%;
   left: 20%;
   border-radius: 20px;
   rotate: 7deg;
-  filter: grayscale(10);
+  filter: grayscale(200%);
 }
 
 .hey{
