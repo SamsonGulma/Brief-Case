@@ -26,12 +26,17 @@
   height: 200px;
   position: absolute;
   top: 17%;
-  left: 20%;
+  left: 18.5%;
   border-radius: 20px;
   rotate: 7deg;
   border-style: solid;
   border-width: 3px;
   border-color: black;
+}
+
+.pic:hover{
+  rotate: -7deg;
+  transition: 1s;
 }
 
 .hey{
