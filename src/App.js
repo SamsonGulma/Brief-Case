@@ -1,7 +1,7 @@
 import './App.css';
 import picture from './assets/ipic.jpg'
 import linkedIn from './assets/icons8-linkedin.gif'
-import { useNavigate } from 'react-router-dom';
+import { useNavigate } from "react-router-dom";
 
 function App() {
   const navigator = useNavigate();
