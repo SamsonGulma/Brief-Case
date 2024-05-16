@@ -1,5 +1,5 @@
 import './App.css';
-import picture from './assets/picturei.jpg'
+import picture from './assets/ipic.jpg'
 
 function App() {
   return (
