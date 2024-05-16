@@ -21,7 +21,7 @@ function App() {
       
       {
         onclick(linkedIn, () => {
-          
+          console.log("you clicked linkedIn Icon")
         })
       }
 
