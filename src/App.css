@@ -101,3 +101,15 @@
   box-shadow: 7px 7px 20px black;
   cursor: pointer;
 }
+
+.btn-about{
+  width: 100px;
+  height: 1rem;
+  position: absolute;
+  top: 80%;
+  left: 5%;
+}
+
+.aboutme{
+
+}

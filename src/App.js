@@ -22,7 +22,7 @@ function App() {
       
         }} />
       
-      <div>
+      <div className='btn-about'>
         <button className='aboutme'>
           About me
         </button>
