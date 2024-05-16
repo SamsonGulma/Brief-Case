@@ -80,11 +80,10 @@
 }
 
 .sam:hover{
-  color: aqua;
-  background-color: blue;
   position: absolute;
   top: 38%;
   left: 9%;
+  rotate: 3deg;
   
 }
 
