@@ -94,8 +94,8 @@
   width: 35px;
   height: 35px;
   position: absolute;
-  top: 60%;
-  left: 12%;
+  top: 25%;
+  left: 5%;
   border-radius: 7px;
   rotate: 7deg;
   box-shadow: 7px 7px 20px black;
@@ -106,11 +106,14 @@
   width: 150px;
   height: 60px;
   position: absolute;
-  top: 80%;
+  top: 70%;
   left: 5%;
+  rotate: -10deg;
   border-style: solid;
-  border-color: rgb(146, 78, 242);
+  border-color: rgb(42, 88, 144);
 }
+
+
 
 .aboutme{
   width: 150px;
@@ -118,7 +121,7 @@
   border: none;
   font-size: larger;
   color: white;
-  background-color: rgb(60, 230, 242);
+  background-color: rgb(60, 178, 242);
   align-items: center;
-  border-radius: 30px;
+  border-radius: 28px;
 }
