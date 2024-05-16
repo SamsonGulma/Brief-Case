@@ -104,14 +104,21 @@
 
 .btn-about{
   width: 150px;
-  height: 60;
+  height: 60px;
   position: absolute;
   top: 80%;
   left: 5%;
+  border-style: solid;
+  border-color: rgb(33, 34, 35);
 }
 
 .aboutme{
-  width: 100px;
-  height: 40px;
+  width: 150px;
+  height: 60px;
+  border: none;
+  font-size: large;
+  color: white;
+  background-color: rgb(34, 34, 36);
   align-items: center;
+  border-radius: 30px;
 }
