@@ -15,11 +15,7 @@ function App() {
       </div>
 
       <img className='pic' src={picture} alt=''/>
-
-      
-
       <div className='sam'><p>Sam</p></div>
-
 
     </div>
   );
