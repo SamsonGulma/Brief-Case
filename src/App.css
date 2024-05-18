@@ -163,8 +163,12 @@
 }
 
 .myWork{
-  width: 200px;
-  height: 200px;
+  width: 50px;
+  height: 70px;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+
   background-color: rgb(180, 229, 81);
   border-width: 10px;
   border-color: black;
