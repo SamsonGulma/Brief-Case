@@ -38,9 +38,9 @@ function App() {
       
       
       <div className='myWork'>
-        <p>
+        <a href="somewhere">
         See my work here!
-        </p>
+        </a>
       </div>
 
     </div>
