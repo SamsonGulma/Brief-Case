@@ -191,7 +191,11 @@
 
 @keyframes nonstop{
   0%{
-    transform: translateY(0);
+    transform: translateY(0.1rem);
+  }
+
+  25%{
+    transform: translateY(0.25rem);
   }
 
   50%{
@@ -199,6 +203,6 @@
   }
 
   100%{
-    transform: translateY(-1rem);
+    transform: translateY(-0.75rem);
   }
 }
