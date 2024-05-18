@@ -233,8 +233,12 @@
   background-color: black;
 }
 
+.github img{
+  padding-bottom: 30px;
+}
+
 .github p{
+  font-size: large;
   color: white;
-  padding-left: 10px;
   transform: rotate(-90deg);
 }
