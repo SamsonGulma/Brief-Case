@@ -179,11 +179,19 @@
   padding: 0px;
   text-decoration: none;
 }
-svg,
+
 .btn-about, 
 .intouch,
 .sam, 
 .myWork::before{
+  content: '';
+  animation: nonstop 3s infinite linear;
+}
+
+.btn-about,
+.intouch,
+.sam,
+.myWork::after {
   content: '';
   animation: nonstop 3s infinite linear;
 }
