@@ -204,7 +204,7 @@
 }
 
 .sam,
-::after{
+::before{
   content: '';
   animation: animate 2s infinite linear;
 }
@@ -227,6 +227,32 @@
   }
   
 }
+
+.sam,
+::after{
+  content: '';
+  animation: animate 2s infinite linear;
+}
+  
+@keyframes animate {
+  0%{
+    transform: scale(.25);
+  }
+  
+  25% {
+    transform: scale(.5);
+  }
+  
+  50% {
+    transform: scale(.75);
+  }
+  
+  100% {
+    transform: scale(1);
+  }
+  
+}
+
 
 .navbar{
   text-decoration: none;
