@@ -180,7 +180,7 @@
   text-decoration: none;
 }
 
-.aboutme, 
+.btn-about, 
 .intouch,
 .sam, 
 .myWork::before{
@@ -204,6 +204,9 @@
   100%{
     transform: translateY(-0.25rem);
   }
+
+  
+
 }
 
 svg {
