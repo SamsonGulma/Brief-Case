@@ -209,9 +209,9 @@
   }
 }
 
-.navbar li{
+.navbar{
   text-decoration: none;
-  transform: rotate(90deg);
+  transform: rotate(-90deg);
   padding: 50px;
   flex: auto;
   flex-direction: column;

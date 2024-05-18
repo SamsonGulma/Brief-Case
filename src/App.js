@@ -43,13 +43,13 @@ function App() {
       </div>
 
       <div className='navbar'>
-        <a>
+        <a href='somewhere'>
           Contact
         </a>
-        <a>
+        <a href='somewhere'>
           About
         </a>
-        <a>
+        <a href='somewhere'>
           Work
         </a>
       </div>
