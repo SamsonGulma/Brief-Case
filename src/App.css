@@ -221,5 +221,8 @@
 }
 
 .navbar a{
-  padding-left: 10px;
+  text-decoration: none;
+  margin-top: 0;
+  padding-top: 0;
+  padding-left: 50px;
 }
