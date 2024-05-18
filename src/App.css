@@ -146,14 +146,14 @@
 .intouch a{
   text-decoration: none;
   color: rgb(42, 36, 36);
-  font-weight: bold;
+  font-weight: normal;
   font-size: x-large;
 }
 
 .intouch{
-  width: 250px;
+  width: 220px;
   height: 50px;
-  background-color: rgb(98, 158, 232);
+  background-color: rgb(98, 238, 238);
   position: absolute;
   top: 60%;
   left: 18%;
