@@ -206,7 +206,7 @@
   }
 }
 
-.btn-about::before{
+svg {
   content: '';
   animation: nonstopp 3s infinite linear;
 }
