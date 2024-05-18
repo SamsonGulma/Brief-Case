@@ -205,8 +205,6 @@
     transform: translateY(-0.25rem);
   }
 
-  
-
 }
 
 svg {
@@ -223,7 +221,7 @@ svg {
     transform: translateY(0.25rem);
   }
   
-  50% {
+  30%,50% {
     transform: translateY(0.5rem);
   }
   
