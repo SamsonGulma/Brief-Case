@@ -62,7 +62,7 @@
   align-items: center;
 }
 
-.hey::before{
+.hey::before:hover{
   width: 150px;
   height: 190px;
   position: absolute;
@@ -75,6 +75,11 @@
   cursor: pointer;
 }
 
+.hey:hover {
+  width: 170px;
+  height: 220px;
+}
+
 .hey::after:hover {
   width: 150px;
   height: 190px;
@@ -85,10 +90,7 @@
   cursor: pointer;
 }
 
-.hey:hover{
-  width: 170px;
-  height: 220px;
-}
+
 
 .hey p:hover{
   align-items: center;
