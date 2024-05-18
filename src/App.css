@@ -65,8 +65,7 @@
 
 
 .hey:hover {
-  width: 200px;
-  height: 250px;
+  transform: scaleY(1);
 }
 
 .hey p:hover{
