@@ -60,7 +60,7 @@ function App() {
       <div className='github'>
         <img src = {github} alt=''/>
 
-        <p>GitHub</p>
+        <a href='somewhere'>GitHub</a>
       </div>
 
 

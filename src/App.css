@@ -231,4 +231,11 @@
   width: 60px;
   height: 170px;
   background-color: black;
+  transform: rotate(-90deg);
+}
+
+.github a{
+  text-decoration: none;
+  text-align: center;
+  color: white;
 }
