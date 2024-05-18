@@ -57,7 +57,7 @@ function App() {
         </a>
       </div>
 
-      <div>
+      <div className='github'>
         <img src = {github} alt=''/>
       </div>
 

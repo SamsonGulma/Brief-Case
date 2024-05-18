@@ -226,3 +226,9 @@
   padding-top: 0;
   padding-left: 50px;
 }
+
+.github{
+  width: 10px;
+  height: 40px;
+  background-color: black;
+}
