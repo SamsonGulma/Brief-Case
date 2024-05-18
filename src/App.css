@@ -231,11 +231,10 @@
   width: 60px;
   height: 170px;
   background-color: black;
-  transform: rotate(-90deg);
 }
 
-.github a{
-  text-decoration: none;
-  text-align: center;
+.github p{
   color: white;
+  padding-left: 10px;
+  transform: rotate(-90deg);
 }
