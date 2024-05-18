@@ -187,7 +187,7 @@
   animation: nonstopable 3s infinite linear;
 }
 
-@keyframes nonstop {
+@keyframes nonstopable {
   0% {
     transform: translateY(-0.1rem);
     transition: 2s;
