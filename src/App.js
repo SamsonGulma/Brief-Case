@@ -37,7 +37,7 @@ function App() {
       
       
       <div className='myWork'>
-        <a href="somewhere">
+        <a className='myworkanchor' href="somewhere">
         See my work here!
         </a>
       </div>
