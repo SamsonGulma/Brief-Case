@@ -1,7 +1,8 @@
- const loading = () => {
 
-      }
+const loading = () => {
+    document.getElementsByClassName("App").style.backgroundColor("Black");
+}
 
-      documet.getElementsByClass("App") = function(){
-        loading()
-      }
+document.getElementsByClass("App").onload = function(){
+    loading()
+}
