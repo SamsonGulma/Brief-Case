@@ -63,6 +63,7 @@
 }
 
 .hey:hover::before{
+  content: '';
   width: 150px;
   height: 190px;
   position: absolute;
@@ -82,9 +83,9 @@
 }
 
 .hey:hover::after {
-  content: ' ';
-  width: 150px;
-  height: 190px;
+  content: '';
+  width: 170px;
+  height: 220px;
   border-radius: 40px;
   rotate: -22deg;
   color: white;
