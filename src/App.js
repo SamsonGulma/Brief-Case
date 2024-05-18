@@ -33,7 +33,7 @@ function App() {
       </div>
 
       <button className='intouch'>
-          <a href="www.gmail.com">Get In Touch</a>
+          <a href="www.gmail.com">Get in touch</a>
       </button>
       
       
