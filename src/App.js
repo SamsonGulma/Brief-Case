@@ -43,15 +43,15 @@ function App() {
       </div>
 
       <div className='navbar'>
-        <li>
+        <a>
           Contact
-        </li>
-        <li>
+        </a>
+        <a>
           About
-        </li>
-        <li>
+        </a>
+        <a>
           Work
-        </li>
+        </a>
       </div>
 
 
