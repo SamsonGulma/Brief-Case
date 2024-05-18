@@ -166,11 +166,12 @@
   width: 200px;
   height: 200px;
   background-color: rgb(180, 229, 81);
+  padding: 100px;
 }
 
 .myWork a{
   color: rgb(42, 36, 36);
   align-items: center;
-  padding: 100px;
+  padding: px;
   text-decoration: none;
 }
