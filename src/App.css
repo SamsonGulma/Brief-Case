@@ -217,7 +217,7 @@ svg {
 @keyframes nonstopp{
   0% {
     transform: translateY(0.1rem);
-    }
+  }
   
   25% {
     transform: translateY(0.25rem);
