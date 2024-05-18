@@ -2,6 +2,7 @@ import './App.css';
 import picture from './assets/ipic.jpg'
 import linkedIn from './assets/icons8-linkedin.gif'
 
+
 function App() {
   return (
     <div className="App">
