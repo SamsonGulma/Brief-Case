@@ -35,13 +35,6 @@
  
 }
 
-.pic:hover{
-  rotate: -7deg;
-  transition: 0.5s;
-  width: 250px;
-  height: 250px;
-}
-
 
 .hey{
   width: 150px;
@@ -186,10 +179,42 @@
   }
 }
 
+.pic:hover
+::after {
+  rotate: -7deg;
+  transition: 0.5s;
+  width: 250px;
+  height: 250px;
+  animation: picanimate 2s infinite linear;
+}
+
 .sam,
 ::after{
   content: '';
   animation: animate 2s infinite linear;
+}
+
+@keyframes animate {
+  0% {
+    transform: scale(.15);
+  }
+
+  25% {
+    transform: scale(.2)
+  }
+
+  50% {
+    transform: scale(.25);
+  }
+
+  75% {
+    transform: scale(.2);
+  }
+
+  100% {
+    transform: scale(.15);
+  }
+
 }
 
 @keyframes animate {
