@@ -61,6 +61,16 @@
   align-items: center;
 }
 
+.hey:hover{
+  width: 170px;
+  height: 220px;
+}
+
+.hey p:hover{
+  align-items: center;
+  padding: 50px;
+}
+
 .sam {
   width: 80px;
   height: 80px;
