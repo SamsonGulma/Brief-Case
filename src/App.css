@@ -188,10 +188,11 @@
   animation: picanimate 2s infinite linear;
 }
 
-.sam,
+.pic:hover
 ::after{
   content: '';
   animation: animate 2s infinite linear;
+  animation: picanimate 2s infinite linear;
 }
 
 @keyframes animate {
