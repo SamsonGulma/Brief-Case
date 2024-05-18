@@ -1,7 +1,6 @@
 .App {
   text-align: center;
-  background: transparent;
-  background-image: url("./assets/brick-wall.svg");
+  background-color: white;
 }
 
 .App-header {
