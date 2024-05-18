@@ -190,7 +190,7 @@
 
 @keyframes nonstop {
   0% {
-    transform: translateY(0.1rem);
+    transform: translateY(-0.1rem);
     transition: 2s;
   }
 
@@ -221,7 +221,7 @@
 
 @keyframes nonstop{
   0%{
-    transform: translateY(0.1rem);
+    transform: translateY(-0.1rem);
     transition: 2s;
   }
 
