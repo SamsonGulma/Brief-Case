@@ -209,8 +209,7 @@
   }
 }
 
-.navbar li{
-  list-style: none;
+.navbar a{
   text-decoration: none;
-  
+  transform: rotate(deg);
 }

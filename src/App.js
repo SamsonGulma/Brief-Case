@@ -43,15 +43,19 @@ function App() {
       </div>
 
       <div className='navbar'>
-        <li>
+
+        <a href='somewhere'>
           Contact
-        </li>
-        <li>
+        </a>
+
+        <a href='somewhere'>
           About
-        </li>
-        <li>
+        </a>
+
+        <a href='somewhere'>
           Work
-        </li>
+        </a>
+        
       </div>
 
 
