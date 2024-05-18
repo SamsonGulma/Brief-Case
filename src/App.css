@@ -179,7 +179,7 @@
   padding: 0px;
   text-decoration: none;
 }
-
+svg,
 .btn-about, 
 .intouch,
 .sam, 
@@ -190,7 +190,7 @@
 
 @keyframes nonstop{
   0%{
-    transform: translateX(0.1rem);
+    transform: translateY(0.1rem);
   }
 
   25%{
@@ -205,27 +205,4 @@
     transform: translateY(-0.25rem);
   }
 
-}
-
-svg {
-  content: '';
-  animation: nonstopp 3s infinite linear;
-}
-
-@keyframes nonstopp{
-  0% {
-    transform: translateY(0.1rem);
-  }
-  
-  25% {
-    transform: translateY(0.25rem);
-  }
-  
-  30%,50% {
-    transform: translateY(0.5rem);
-  }
-  
-  100% {
-    transform: translateY(-0.25rem);
-  }
 }
