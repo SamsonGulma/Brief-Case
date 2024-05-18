@@ -178,11 +178,7 @@
   text-decoration: none;
 }
 
-.btn-about, 
-.intouch,
-.myWork,
-.sam, 
-::after{
+.btn-about ::after{
   content: '';
   animation: nonstopable 3s infinite linear;
 }
