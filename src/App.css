@@ -182,8 +182,9 @@
 
 .btn-about, 
 .intouch,
-.sam, 
-.myWork::after{
+.myWork,
+.sam
+::after{
   content: '';
   animation: nonstopable 3s infinite linear;
 }
