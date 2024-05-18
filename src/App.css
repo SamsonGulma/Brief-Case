@@ -186,7 +186,7 @@
 .sam, 
 .myWork::before{
   content: '';
-  animation: nonstop 1s infinite linear;
+  animation: nonstop 3s infinite linear;
 }
 
 @keyframes nonstop{
@@ -195,10 +195,10 @@
   }
 
   50%{
-    transform: translateY(1rem);
+    transform: translateY(0.5rem);
   }
 
   100%{
-    transform: translateY(-1.75rem);
+    transform: translateY(-1rem);
   }
 }
