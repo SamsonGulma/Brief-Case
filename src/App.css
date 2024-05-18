@@ -101,8 +101,6 @@
 .sam:hover{
   color: white;
   position: absolute;
-  top: 22%;
-  left: 13%;
   rotate: 3deg;
   transition-duration: 900ms;
 }
@@ -180,4 +178,17 @@
   align-items: center;
   padding: 0px;
   text-decoration: none;
+}
+
+.aboutme, 
+.btn-about, 
+.hey, 
+.intouch,
+.linkedin, 
+.sam, 
+.myWork::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
 }
