@@ -190,7 +190,7 @@
 
 @keyframes nonstop{
   0%{
-    transform: translateY(0.1rem);
+    transform: translateX(0.1rem);
   }
 
   25%{
