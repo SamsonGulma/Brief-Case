@@ -219,3 +219,7 @@
   flex: auto;
   flex-direction: column;
 }
+
+.navbar a{
+  padding-left: 10px;
+}
