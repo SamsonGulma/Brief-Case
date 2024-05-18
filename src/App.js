@@ -11,9 +11,9 @@ function App() {
           Software<br />Engineering <br /> Student <br /> at ASTU 
       </div>
 
-      <div className='hey'>
+      <div className='myWork'>
         <p>
-          Hey there, I'm Samson
+        See my work here!
         </p>
       </div>
 
@@ -33,7 +33,13 @@ function App() {
 
       <button className='intouch'>
           <a href="www.gmail.com">Get In Touch</a>
-        </button>
+      </button>
+      
+      <div className='hey'>
+        <p>
+          Hey there, I'm Samson
+        </p>
+      </div>
 
     </div>
   );
