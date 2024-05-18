@@ -73,6 +73,7 @@
   color: white;
   background-color: rgb(212, 100, 44);
   cursor: pointer;
+  transition: 1s;
 }
 
 .hey:hover {
@@ -88,6 +89,7 @@
   color: white;
   background-color: rgb(212, 100, 44);
   cursor: pointer;
+  transition: 1s;
 }
 
 
