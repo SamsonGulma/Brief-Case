@@ -211,19 +211,19 @@
 
 @keyframes animate {
   0% {
-    transform: translateY(-0.5rem);
+    width: 90px;
   }
 
   25% {
-    transform: translateY(0.25rem);
+    width: 92.5px;
   }
 
   50% {
-    transform: translateY(0.25rem);
+    width: 95.5px;
   }
 
   100% {
-    transform: translateY(-0.5rem);
+    width: 98.5;
   }
 }
 
