@@ -207,36 +207,4 @@
     transform: translateY(-0.25rem);
     transition: 2s;
   }
-
-}
-
-.btn-about,
-.intouch,
-.sam,
-.myWork::after {
-  content: '';
-  animation: nonstop 3s infinite linear;
-}
-
-@keyframes nonstop{
-  0%{
-    transform: translateY(-0.1rem);
-    transition: 2s;
-  }
-
-  25%{
-    transform: translateY(0.25rem);
-    transition: 2s;
-  }
-
-  50%{
-    transform: translateY(0.5rem);
-    transition: 2s;
-  }
-
-  100%{
-    transform: translateY(-0.25rem);
-    transition: 2s;
-  }
-
 }

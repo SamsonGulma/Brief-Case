@@ -42,7 +42,7 @@ function App() {
         </a>
       </div>
 
-      <div>
+      <div className='navbar'>
         <li>
           Contact
         </li>
