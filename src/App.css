@@ -32,6 +32,7 @@
   border-style: solid;
   border-width: 3px;
   border-color: black;
+  filter: grayscale(0.7);
 }
 
 .pic:hover{
@@ -62,41 +63,11 @@
   align-items: center;
 }
 
-.hey:hover::before{
-  content: '';
-  width: 150px;
-  height: 190px;
-  position: absolute;
-  top: -3%;
-  left: 15%;
-  border-radius: 40px;
-  rotate: 22deg;
-  color: white;
-  background-color: rgb(212, 100, 44);
-  cursor: pointer;
-  transition: 1s;
-}
-
-
-.hey:hover::after {
-  content: '';
-  width: 170px;
-  height: 220px;
-  position: absolute;
-  top: -3%;
-  left: 15%;
-  border-radius: 40px;
-  color: white;
-  background-color: rgb(212, 100, 44);
-  cursor: pointer;
-  transition: 1s;
-}
 
 .hey:hover {
   width: 170px;
   height: 220px;
 }
-
 
 .hey p:hover{
   color: white;
