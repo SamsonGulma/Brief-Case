@@ -5,6 +5,7 @@ import linkedIn from './assets/icons8-linkedin.gif'
 function App() {
   return (
     <div className="App">
+
       <div className="App-header">
           Software<br />Engineering <br /> Student <br /> at ASTU 
       </div>
