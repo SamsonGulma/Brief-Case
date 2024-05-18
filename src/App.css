@@ -215,15 +215,15 @@
   }
 
   25% {
-    transform: translateY(0.25rem);
-  }
-
-  50% {
     transform: translateY(0.5rem);
   }
 
-  100% {
+  50% {
     transform: translateY(-0.25rem);
+  }
+
+  100% {
+    transform: translateY(-0.5rem);
   }
 }
 
