@@ -52,6 +52,7 @@
   rotate: 22deg;
   color: white;
   background-color: rgb(212, 100, 44);
+  cursor: pointer;
 }
 
 .hey p{
