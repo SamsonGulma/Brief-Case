@@ -49,9 +49,10 @@
   position: absolute;
   top: -3%;
   left: 25%;
+  font-weight: normal;
   border-radius: 40px;
   rotate: 22deg;
-  color: white;
+  color: rgb(255, 255, 255);
   background-color: #ceb0b0;
   cursor: pointer;
 }
