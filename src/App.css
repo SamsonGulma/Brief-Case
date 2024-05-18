@@ -213,5 +213,5 @@
   text-decoration: none;
   transform: rotate(deg);
   flex: auto;
-  flex-direction: column;
+  flex-direction: row;
 }
