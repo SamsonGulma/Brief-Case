@@ -110,7 +110,7 @@
   left: 5%;
   rotate: -10deg;
   border-style: solid;
-  border-color: rgb(42, 88, 144);
+  border-color: rgb(60, 109, 242);
 }
 
 
@@ -121,7 +121,7 @@
   border: none;
   font-size: larger;
   color: white;
-  background-color: rgb(60, 178, 242);
+  background-color: rgb(60, 109, 242);
   align-items: center;
   border-radius: 28px;
 }
