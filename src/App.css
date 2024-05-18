@@ -178,7 +178,9 @@
   text-decoration: none;
 }
 
-.btn-about ::after{
+.btn-about,
+
+::after{
   content: '';
   animation: nonstopable 3s infinite linear;
 }
