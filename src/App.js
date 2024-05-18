@@ -19,7 +19,8 @@ function App() {
       <div className='sam'><p>Sam</p></div>
       <img className='linkedin' src={linkedIn} alt=''
         onClick={() => {
-          
+          const pic = document.getSelection("pic")
+          console.log(typeof(pic))
                 }} />
       
       <div className='btn-about'>
