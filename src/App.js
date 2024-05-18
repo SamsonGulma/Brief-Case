@@ -19,7 +19,7 @@ function App() {
       <div className='sam'><p>Sam</p></div>
       <img className='linkedin' src={linkedIn} alt=''
         onClick={() => {
-      
+          fetch("https://www.linkedin.com/in/samson-tekeste-4aa139229/")
         }} />
       
       <div className='btn-about'>
