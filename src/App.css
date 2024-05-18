@@ -221,7 +221,7 @@
   }
   
   50% {
-    transform: translateY(0.55rem);
+    transform: translateY(-0.55rem);
   }
   
   100% {
