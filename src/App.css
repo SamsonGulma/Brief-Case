@@ -52,7 +52,7 @@
   border-radius: 40px;
   rotate: 22deg;
   color: white;
-  background-color: rgb(212, 100, 44);
+  background-color: rgb(250, 142, 54);
   cursor: pointer;
 }
 
@@ -119,7 +119,7 @@
 }
 
 .aboutme{
-  width: 150px;
+  width: 170px;
   height: 60px;
   border: none;
   font-size: larger;
