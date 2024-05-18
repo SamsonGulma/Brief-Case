@@ -188,7 +188,15 @@
 .sam, 
 .myWork::before{
   content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
+  animation: nonstop 1s infinite linear;
+}
+
+@keyframes nonstop{
+  0%{
+    transform: translateY(0);
+  }
+
+  100%{
+    transform: translateY(-1.75rem);
+  }
 }
