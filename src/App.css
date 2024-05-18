@@ -211,19 +211,19 @@
 
 @keyframes animate {
   0% {
-    width: 90px;
+    transform: scale(1);
   }
 
   25% {
-    width: 92.5px;
+    transform: scale(1);
   }
 
   50% {
-    width: 95.5px;
+    transform: scale(1);
   }
 
   100% {
-    width: 98.5;
+    transform: scale(1);
   }
 }
 
