@@ -32,7 +32,7 @@
   border-style: solid;
   border-width: 3px;
   border-color: black;
-  filter: grayscale(0.7);
+ 
 }
 
 .pic:hover{
