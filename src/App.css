@@ -137,7 +137,7 @@
   margin: 0;
   position: absolute;
   top: 55%;
-  left: 5%;
+  left: 10%;
   rotate: -10deg;
   border-style: groove;
   border-color: rgb(60, 109, 242);
@@ -157,7 +157,7 @@
   background-color: rgb(98, 238, 238);
   position: absolute;
   top: 60%;
-  left: 18%;
+  left: 22%;
   border-style: none;
   border-radius: 30px;
   rotate: 5deg;
