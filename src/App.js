@@ -11,11 +11,9 @@ function App() {
           Software<br />Engineering <br /> Student <br /> at ASTU 
       </div>
 
-      <div className='hey'>
-        <p>
+        <p className='hey'>
           Hey there, I'm Samson
         </p>
-      </div>
 
 
       <img className='pic' src={picture} alt=''/>
