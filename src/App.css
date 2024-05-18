@@ -65,7 +65,7 @@
 
 
 .hey:hover {
-  transform: scaleY(1);
+  transform: scale(10px);
 }
 
 .hey p:hover{
