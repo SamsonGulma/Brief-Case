@@ -26,9 +26,9 @@
   height: 200px;
   position: absolute;
   top: 17%;
-  left: 23%;
+  left: 24%;
   border-radius: 20px;
-  rotate: 7deg;
+  rotate: 5deg;
   border-style: solid;
   border-width: 3px;
   border-color: black;
@@ -44,12 +44,12 @@
 
 
 .hey{
-  width: 150px;
-  height: 190px;
+  width: 170px;
+  height: 200px;
   position: absolute;
   top: -3%;
   left: 20%;
-  border-radius: 40px;
+  border-radius: 45%;
   rotate: 22deg;
   color: white;
   background-color: rgb(212, 100, 44);
@@ -85,7 +85,7 @@
   border-radius: 10px;
   color: white;
   background-color: black;
-  box-shadow: 7px 7px 20px black;
+  box-shadow: 3px 1px 15px black;
   cursor: pointer;
 }
 
@@ -98,6 +98,7 @@
 }
 
 .sam:hover{
+  color: white;
   position: absolute;
   top: 38%;
   left: 9%;
