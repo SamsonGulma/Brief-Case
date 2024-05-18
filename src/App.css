@@ -213,6 +213,9 @@
   text-decoration: none;
   transform: rotate(-90deg);
   padding: 50px;
+  position: absolute;
+  top: 120%;
+  left: 0%;
   flex: auto;
   flex-direction: column;
 }
