@@ -180,7 +180,7 @@
   text-decoration: none;
 }
 
-.btn-about, 
+.aboutme, 
 .intouch,
 .sam, 
 .myWork::before{
@@ -203,5 +203,28 @@
 
   100%{
     transform: translateY(-0.25rem);
+  }
+}
+
+.btn-about::before{
+  content: '';
+  animation: nonstopp 3s infinite linear;
+}
+
+@keyframes nonstopp{
+  0% {
+      transform: translateY(0.15rem);
+    }
+  
+  25% {
+    transform: translateY(0.255rem);
+  }
+  
+  50% {
+    transform: translateY(0.55rem);
+  }
+  
+  100% {
+    transform: translateY(-0.255rem);
   }
 }
