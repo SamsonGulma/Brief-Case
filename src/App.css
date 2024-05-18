@@ -206,7 +206,7 @@
 .sam,
 ::after{
   content: '';
-  animation: animate 2s infinite linear;
+  animation: animate 1.5s infinite linear;
 }
 
 @keyframes animate {
@@ -219,11 +219,11 @@
   }
 
   50% {
-    transform: rotate(2deg);
+    transform: rotate(1deg);
   }
 
   75%{
-    transform: rotate(-7deg);
+    transform: rotate(-5deg);
   }
 
   100% {
