@@ -118,11 +118,12 @@
 .btn-about{
   width: 150px;
   height: 60px;
+  margin: 0;
   position: absolute;
   top: 70%;
   left: 5%;
   rotate: -10deg;
-  border-style: solid;
+  border-style: groove;
   border-color: rgb(60, 109, 242);
 
 }
