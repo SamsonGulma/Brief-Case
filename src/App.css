@@ -102,19 +102,6 @@
   cursor: pointer;
 }
 
-.btn-about{
-  width: 150px;
-  height: 60px;
-  position: absolute;
-  top: 70%;
-  left: 5%;
-  rotate: -10deg;
-  border-style: solid;
-  border-color: rgb(60, 109, 242);
-}
-
-
-
 .aboutme{
   width: 150px;
   height: 60px;
@@ -124,6 +111,20 @@
   background-color: rgb(60, 109, 242);
   align-items: center;
   border-radius: 28px;
+}
+
+
+
+.btn-about{
+  width: 150px;
+  height: 60px;
+  position: absolute;
+  top: 70%;
+  left: 5%;
+  rotate: -10deg;
+  border-style: solid;
+  border-color: rgb(60, 109, 242);
+
 }
 
 .intouch a{
