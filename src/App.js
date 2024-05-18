@@ -11,11 +11,12 @@ function App() {
           Software<br />Engineering <br /> Student <br /> at ASTU 
       </div>
 
-      <div className='myWork'>
+      <div className='hey'>
         <p>
-        See my work here!
+          Hey there, I'm Samson
         </p>
       </div>
+
 
       <img className='pic' src={picture} alt=''/>
       <div className='sam'><p>Sam</p></div>
@@ -35,9 +36,10 @@ function App() {
           <a href="www.gmail.com">Get In Touch</a>
       </button>
       
-      <div className='hey'>
+      
+      <div className='myWork'>
         <p>
-          Hey there, I'm Samson
+        See my work here!
         </p>
       </div>
 
