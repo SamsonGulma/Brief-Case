@@ -42,7 +42,18 @@ function App() {
         </a>
       </div>
 
-      
+      <div>
+        <li>
+          Contact
+        </li>
+        <li>
+          About
+        </li>
+        <li>
+          Work
+        </li>
+      </div>
+
 
     </div>
   );
