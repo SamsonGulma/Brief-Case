@@ -203,6 +203,30 @@
   }
 }
 
+.sam,
+::after{
+  content: '';
+  animation: animate 3s infinite linear;
+}
+
+@keyframes animate {
+  0% {
+    transform: translateY(0.25rem);
+  }
+
+  25% {
+    transform: translateY(0.25rem);
+  }
+
+  50% {
+    transform: translateY(0.5rem);
+  }
+
+  100% {
+    transform: translateY(-0.25rem);
+  }
+}
+
 .navbar{
   text-decoration: none;
   transform: rotate(-90deg);
