@@ -241,7 +241,9 @@
   padding-bottom: 30px;
 }
 
-.github p{
+.github p, a{
+  text-align: center;
+  text-decoration: none;
   font-size: large;
   color: white;
   transform: rotate(-90deg);
