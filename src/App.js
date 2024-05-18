@@ -36,7 +36,7 @@ function App() {
       </div>
 
       <button className='intouch'>
-          <a href="www.gmail.com">Get in touch</a>
+          <a href="https://mail.google.com/mail/u/0/#inbox">Get in touch</a>
       </button>
       
       
