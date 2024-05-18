@@ -165,15 +165,14 @@
 }
 
 .myWork{
-  width: 25px;
-  height: 25px;
+  width: 200px;
+  height: 200px;
   position: absolute;
   top: 85%;
   left: 25%;
   background-color: rgb(192, 238, 99);
   border-width: 10px;
   border-color: black;
-  padding: 100px;
 }
 
 .myWork a{
