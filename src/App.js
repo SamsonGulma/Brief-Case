@@ -1,6 +1,7 @@
 import './App.css';
 import picture from './assets/ipic.jpg'
 import linkedIn from './assets/icons8-linkedin.gif'
+import github from './assets/icons8-github-48.png'
 
 
 function App() {
@@ -42,7 +43,7 @@ function App() {
         </a>
       </div>
 
-      
+
 
       <div className='navbar'>
         <a href='somewhere'>
@@ -54,6 +55,10 @@ function App() {
         <a href='somewhere'>
           Work
         </a>
+      </div>
+
+      <div>
+        <img src = {github} alt=''/>
       </div>
 
 
