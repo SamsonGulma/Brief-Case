@@ -65,17 +65,6 @@
 }
 
 
-.hey:hover {
-  width: 170px;
-  height: 220px;
-}
-
-.hey p:hover{
-  color: white;
-  align-items: center;
-  padding: 50px;
-}
-
 .sam {
   width: 80px;
   height: 80px;
@@ -96,12 +85,6 @@
   align-items: center;
 }
 
-.sam:hover{
-  color: white;
-  position: absolute;
-  rotate: 3deg;
-  transition-duration: 900ms;
-}
 
 .linkedin {
   width: 35px;
@@ -206,7 +189,7 @@
 .sam,
 ::after{
   content: '';
-  animation: animate 1.5s infinite linear;
+  animation: animate 2s infinite linear;
 }
 
 @keyframes animate {
