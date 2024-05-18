@@ -212,4 +212,6 @@
 .navbar a{
   text-decoration: none;
   transform: rotate(deg);
+  flex: auto;
+  flex-direction: column;
 }
