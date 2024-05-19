@@ -239,16 +239,11 @@
 
 
 .sidenavbar{
-  text-decoration: none;
-  margin-top: 0px;
-  float: left;
+  
 }
 
 .sideanchor{
-  align-items: center;
-  float: left;
   color: black;
-  text-decoration: none;
 }
 
 .github{
