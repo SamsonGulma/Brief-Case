@@ -50,7 +50,7 @@ function App() {
 
 
 
-      <div className='sidenavbar'>
+      <span className='sidenavbar'>
         <a href='somewhere'>
           Contact
         </a>
@@ -60,7 +60,7 @@ function App() {
         <a href='somewhere'>
           Work
         </a>
-      </div>
+      </span>
 
       <div className='github'>
         <img src = {github} alt=''/>
