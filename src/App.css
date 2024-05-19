@@ -62,7 +62,7 @@
   }
 }
 
-.hey{
+.hey:not(hover()){
   width: 150px;
   height: 190px;
   position: absolute;
