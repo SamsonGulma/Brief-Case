@@ -87,6 +87,7 @@
 
 .hey:hover{
   transform: skew(-5deg);
+  transition: .3s ease-out;
 }
 
 
@@ -110,19 +111,35 @@
   align-items: center;
 }
 
-
-
 .sam,
 ::after {
   content: '';
   animation: animate 2s infinite linear;
 }
 
+@keyframes animate {
+  0% {
+    transform: rotate(-10deg);
+  }
 
+  25% {
+    transform: rotate(-5deg)
+  }
 
-.sam:hover {
-  transform: translate(40px, 20px) rotate(20deg);
+  50% {
+    transform: rotate(1deg);
+  }
+
+  75% {
+    transform: rotate(-5deg);
+  }
+
+  100% {
+    transform: rotate(-10deg);
+  }
+
 }
+
 
 .linkedin {
   width: 35px;
