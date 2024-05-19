@@ -266,6 +266,10 @@
   cursor: pointer;
 }
 
+.myWork:hover{
+  transform: rotate(0deg) translateY(5%);
+}
+
 .myworkanchor{
   margin-top: 100px;
   color: rgb(42, 36, 36);
