@@ -241,15 +241,16 @@
 .sidenavbar{
   text-decoration: none;
   position: absolute;
-  transform: rotate(-90deg);
   margin-top: 0px;
   top: 160%;
   left: 0%;
+  float: left;
   flex: auto;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .sideanchor{
+  float: left;
   color: black;
   text-decoration: none;
   margin-top: 0;
