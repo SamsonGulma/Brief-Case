@@ -21,6 +21,10 @@
   top: 15%;
 }
 
+section{
+  height: 100vh;
+}
+
 .pic img{
   width: 200px;
   height: 200px;
