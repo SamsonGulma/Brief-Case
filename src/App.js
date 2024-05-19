@@ -51,6 +51,8 @@ function App() {
 
 
       <span className='sidenavbar'>
+
+        <ul>
         <a href='somewhere'>
           Contact
         </a>
@@ -60,6 +62,8 @@ function App() {
         <a href='somewhere'>
           Work
         </a>
+        </ul>
+
       </span>
 
       <div className='github'>
