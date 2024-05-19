@@ -42,11 +42,11 @@ function App() {
       </button>
       
       
-      <div className='myWork'>
+      <button className='myWork'>
         <a className='myworkanchor' href="somewhere">
         See my work here!
         </a>
-      </div>
+      </button>
 
 
 
