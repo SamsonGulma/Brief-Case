@@ -240,13 +240,13 @@
 
 .sidenavbar{
   text-decoration: none;
-  transform: rotate(-90deg);
   position: absolute;
+  transform: rotate(-90deg);
   margin-top: 0px;
   top: 160%;
   left: 0%;
   flex: auto;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .sideanchor{
@@ -254,7 +254,7 @@
   text-decoration: none;
   margin-top: 0;
   padding-top: 0;
-  padding-left: 50px;
+  padding-left: 0px;
 }
 
 .github{
