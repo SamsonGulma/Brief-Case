@@ -35,12 +35,14 @@
   z-index: 1;
 }
 
+
+
 .ipic{
     animation: picanimate 3s infinite linear;
 
 }
 
-@keyframes picanimat {
+@keyframes picanimate {
   0% {
     transform: rotateX(-30deg);  
   }
