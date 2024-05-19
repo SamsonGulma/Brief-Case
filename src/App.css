@@ -33,10 +33,12 @@
   border-style: solid;
   border-width: 3px;
   border-color: black;
+  z-index: 1;
 }
 
 .ipic{
-    animation: picanimate 3s infinite linear;
+
+  animation: picanimate 3s infinite linear;
 }
 
 @keyframes picanimate {
