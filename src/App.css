@@ -110,9 +110,7 @@
   align-items: center;
 }
 
-.sam:hover{
-  transform: translate(40px, 20px) rotate(20deg);
-}
+
 
 .sam,
 ::after {
@@ -120,29 +118,11 @@
   animation: animate 2s infinite linear;
 }
 
-@keyframes animate {
-  0% {
-    transform: rotate(-10deg);
-  }
 
-  25% {
-    transform: rotate(-5deg)
-  }
 
-  50% {
-    transform: rotate(1deg);
-  }
-
-  75% {
-    transform: rotate(-5deg);
-  }
-
-  100% {
-    transform: rotate(-10deg);
-  }
-
+.sam:hover {
+  transform: translate(40px, 20px) rotate(20deg);
 }
-
 
 .linkedin {
   width: 35px;
