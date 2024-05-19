@@ -20,48 +20,49 @@ function App() {
   return (
     <div className="App">
 
-      <div className="App-header" data-aos="fade-up">
+     <section className='onFirst'> 
+        <div className="App-header" data-aos="fade-up">
+          
+          Software<br />Engineering <br /> Student <br /> at ASTU 
+        </div>
+
+        <div className='hey'>
+          <p>
+            Hey there, I'm Samson
+          </p>
+        </div>
+
+        <div className='pic'>
+        <img className='ipic' src={picture} alt=''/>
+        </div>
+
         
-        Software<br />Engineering <br /> Student <br /> at ASTU 
-      </div>
+        <div className='sam'><p>Sam</p></div>
+        <img className='linkedin' src={linkedIn} alt=''
+          onClick={() => {
+            const pic = document.getSelection("pic")
+            console.log(typeof(pic))
+                  }} />
+        
+        <div className='btn-about'>
+          <button className='aboutme'>
+            About me
+          </button>
+        </div>
 
-      <div className='hey'>
-        <p>
-          Hey there, I'm Samson
-        </p>
-      </div>
-
-      <div className='pic'>
-      <img className='ipic' src={picture} alt=''/>
-      </div>
-
-      
-      <div className='sam'><p>Sam</p></div>
-      <img className='linkedin' src={linkedIn} alt=''
-        onClick={() => {
-          const pic = document.getSelection("pic")
-          console.log(typeof(pic))
-                }} />
-      
-      <div className='btn-about'>
-        <button className='aboutme'>
-          About me
+        <button className='intouch'>
+            <a href="mailto:sams0ngultek@gmail.com">Get in touch</a>
         </button>
-      </div>
+        
+        
+        <button className='myWork'>
+          <a className='myworkanchor' href=".hey">
+          See my work here!
+          </a>
+        </button>
 
-      <button className='intouch'>
-          <a href="mailto:sams0ngultek@gmail.com">Get in touch</a>
-      </button>
-      
-      
-      <button className='myWork'>
-        <a className='myworkanchor' href=".hey">
-        See my work here!
-        </a>
-      </button>
-
-      <div className='pocket'> </div>
-
+        <div className='pocket'> </div>
+</section>
       <div className='sidenavbar'>
 
         <a className='sideanchor' href='somewhere'>
