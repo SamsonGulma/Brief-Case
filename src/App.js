@@ -10,7 +10,6 @@ function App() {
     <div className="App">
 
       <div className="App-header">
-        <img className='onBack' src={blob} alt=''/>
          <p> Software<br />Engineering <br /> Student <br /> at ASTU </p>
       </div>
 
