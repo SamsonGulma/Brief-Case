@@ -33,9 +33,30 @@
   border-style: solid;
   border-width: 3px;
   border-color: black;
- 
+  animation: picanimate 3s infinite linear;
 }
 
+@keyframes picanimate {
+  0% {
+    transform: rotate(-10deg);
+  }
+
+  25% {
+    transform: rotate(-5deg)
+  }
+
+  50% {
+    transform: rotate(1deg);
+  }
+
+  75% {
+    transform: rotate(-5deg);
+  }
+
+  100% {
+    transform: rotate(-10deg);
+  }
+}
 
 .hey{
   width: 150px;
