@@ -271,6 +271,10 @@
   transition: 500ms;
 }
 
+.myWork:not(:hover){
+  transform: rotate(10deg) translateY(3rem) rotate(0deg);
+  transition: 500ms;
+}
 
 .myworkanchor{
   margin-top: 100px;
