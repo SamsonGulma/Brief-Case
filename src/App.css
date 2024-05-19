@@ -21,7 +21,8 @@
   top: 15%;
 }
 
-.pic{
+
+.pic, .pic img{
   width: 200px;
   height: 200px;
   position: absolute;
