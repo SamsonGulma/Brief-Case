@@ -35,7 +35,10 @@
   z-index: 1;
 }
 
-
+.pic img:hover{
+  transform: scale(110%);
+  transition: 500ms;
+}
 
 .ipic{
     animation: picanimate 3s infinite linear;
