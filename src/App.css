@@ -44,26 +44,24 @@
 @keyframes picanimate {
   0% {
     transform: rotateX(-30deg);
-        transform: rotateY(-30deg);
-            transform: rotateZ(-30deg);
+        
   }
 
   25% {
     transform: rotateX(-20deg);
-        transform: rotateY(-30deg);
-            transform: rotateZ(-30deg);
+        
+            transform: rotateZ(-20deg);
   }
 
   50% {
-    transform: rotateX(15deg);
-        transform: rotateY(-30deg);
-            transform: rotateZ(-30deg);
+        transform: rotateY(15deg);
+            transform: rotateZ(15deg);
   }
 
   75% {
     transform: rotateX(20deg);
-        transform: rotateY(-30deg);
-            transform: rotateZ(-30deg);
+        transform: rotateY(20deg);
+            transform: rotateZ(20deg);
   }
 
   100% {
