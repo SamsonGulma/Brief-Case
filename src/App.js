@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
 
-      <div className="App-header">
+      <div className="App-header" data-aos="fade-down">
         
         Software<br />Engineering <br /> Student <br /> at ASTU 
       </div>
