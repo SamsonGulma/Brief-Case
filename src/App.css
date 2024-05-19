@@ -256,8 +256,9 @@
   width: 200px;
   height: 200px;
   position: absolute;
-  top: 80%;
+  top: 75%;
   left: 25%;
+  transform: rotate(10deg);
   background-color: rgb(192, 238, 99);
   border-color: transparent;
   border-radius: 20px;
