@@ -274,13 +274,12 @@
 
 
 .sidenavbar{
-  
-}
-
-.sideanchor{
   position: absolute;
   top: 120%;
   left: 0%;
+}
+
+.sideanchor{
   padding-left: 5px;
   color: black;
 }
