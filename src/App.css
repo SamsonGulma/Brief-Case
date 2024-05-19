@@ -222,8 +222,8 @@
   rotate: 5deg;
 }
 
-.intouch{
-  transform: skew(-5deg);
+.intouch:hover{
+  transform: skew(-15deg);
 }
 
 .myWork{
