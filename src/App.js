@@ -43,7 +43,7 @@ function App() {
       
       
       <button className='myWork'>
-        <a className='myworkanchor' href="somewhere">
+        <a className='myworkanchor' href=".hey">
         See my work here!
         </a>
       </button>
