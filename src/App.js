@@ -10,7 +10,8 @@ function App() {
     <div className="App">
 
       <div className="App-header">
-         <p> Software<br />Engineering <br /> Student <br /> at ASTU </p>
+        
+          Software<br />Engineering <br /> Student <br /> at ASTU 
       </div>
 
       <div className='hey'>
