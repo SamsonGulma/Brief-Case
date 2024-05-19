@@ -18,7 +18,10 @@ function App() {
         </p>
       </div>
 
-      <img className='pic' src={picture} alt=''/>
+      <div className='pic'>
+      <img src={picture} alt=''/>
+      </div>
+
       <div className='sam'><p>Sam</p></div>
       <img className='linkedin' src={linkedIn} alt=''
         onClick={() => {
