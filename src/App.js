@@ -19,10 +19,11 @@ function App() {
         </p>
       </div>
 
-      <canvas className='pic'>
+      <div className='pic'>
       <img className='ipic' src={picture} alt=''/>
-      </canvas>
+      </div>
 
+      
       <div className='sam'><p>Sam</p></div>
       <img className='linkedin' src={linkedIn} alt=''
         onClick={() => {
