@@ -87,12 +87,12 @@
 
 .hey:hover{
   transform: skew(-5deg);
-  transition: .3s ease-out;
+  transition: 500ms;
 }
 
 .hey:not(:hover()){
   transform: skew(0deg);
-  transition: .3s ease-out;
+  transition: 500ms;
 }
 
 
