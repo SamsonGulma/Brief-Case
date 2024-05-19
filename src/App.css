@@ -267,7 +267,7 @@
 }
 
 .myWork:hover{
-  transform: rotate(0deg) translateY(5%);
+  transform: rotate(0deg) translateY(-3rem) rotate(-10deg);
 }
 
 .myworkanchor{
