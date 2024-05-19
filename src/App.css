@@ -275,13 +275,13 @@
 }
 
 .pocket{
-  width: 300px;
+  width: 240px;
   height: 105px;
   position: absolute;
-  top: 98%;
-  left: 22%;
+  top: 99%;
+  left: 24%;
   background-color: white;
-  border-color: white;
+
 }
 
 .sidenavbar{
