@@ -42,25 +42,25 @@
 
 }
 
-@keyframes picanimate {
+@keyframes picanimat {
   0% {
-    transform: skewY(-30deg);  
+    transform: rotateX(-30deg);  
   }
 
   25% {
-    transform: skewY(-20deg)
+    transform: rotateX(-20deg)
   }
 
   50% {
-    transform: skewY(15deg);
+    transform: rotateX(15deg);
   }
 
   75% {
-    transform: skewX(20deg);
+    transform: rotateX(20deg);
   }
 
   100% {
-    transform: skewX(30deg);
+    transform: rotateX(30deg);
   }
 }
 
