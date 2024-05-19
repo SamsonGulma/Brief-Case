@@ -62,7 +62,7 @@
   }
 }
 
-.hey:not(hover()){
+.hey{
   width: 150px;
   height: 190px;
   position: absolute;
@@ -87,6 +87,11 @@
 
 .hey:hover{
   transform: skew(-5deg);
+  transition: .3s ease-out;
+}
+
+.hey:not(:hover()){
+  transform: skew(0deg);
   transition: .3s ease-out;
 }
 
