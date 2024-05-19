@@ -222,6 +222,10 @@
   rotate: 5deg;
 }
 
+.intouch{
+  transform: skew(-5deg);
+}
+
 .myWork{
   width: 200px;
   height: 200px;
