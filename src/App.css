@@ -21,7 +21,6 @@
   top: 15%;
 }
 
-
 .pic img{
   width: 200px;
   height: 200px;
@@ -43,8 +42,7 @@
 
 @keyframes picanimat {
   0% {
-    transform: rotateX(-30deg);
-    
+    transform: rotateX(-30deg);  
   }
 
   25% {
@@ -75,6 +73,8 @@
   rotate: 22deg;
   color: rgb(255, 255, 255);
   background-color: #cca69a;
+  box-shadow: inset -20px 20px 60px #bebebe,
+      inset 20px -20px 60px #ffffff;
   cursor: pointer;
 }
 
@@ -162,7 +162,6 @@
   align-items: center;
   border-radius: 28px;
 }
-
 
 
 .btn-about{
@@ -282,7 +281,7 @@
   left: 24%;
   border-radius: 10px;
   background-color: white;
-  box-shadow: -1px -1px -1px 7px black;
+  box-shadow: -1px -1px 7px black;
 
 }
 
