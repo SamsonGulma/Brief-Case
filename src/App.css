@@ -85,6 +85,10 @@
   align-items: center;
 }
 
+.hey:hover{
+  transform: skew(-5deg);
+}
+
 
 .sam {
   width: 80px;
