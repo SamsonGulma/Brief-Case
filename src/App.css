@@ -40,6 +40,11 @@
   transition: 500ms;
 }
 
+.pic img:not(:hover){
+  transform: scale(100%);
+  transition: 500ms;
+}
+
 .ipic{
     animation: picanimate 3s infinite linear;
 
