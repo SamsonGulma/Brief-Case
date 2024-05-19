@@ -280,8 +280,9 @@
   position: absolute;
   top: 99%;
   left: 24%;
+  border-radius: 10px;
   background-color: white;
-  box-shadow: 20px black;
+  box-shadow: -1px -1px -1px 7px black;
 
 }
 
