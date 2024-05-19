@@ -53,13 +53,13 @@ function App() {
       <div className='sidenavbar'>
 
         <a className='sideanchor' href='somewhere'>
-          Contact
+          Work
         </a>
         <a className='sideanchor' href='somewhere'>
           About
         </a>
         <a className='sideanchor' href='somewhere'>
-          Work
+          Contact
         </a>
       </div>
 

@@ -275,13 +275,15 @@
 
 .sidenavbar{
   position: absolute;
-  top: 120%;
+  top: 150%;
   left: 0%;
+  transform: rotate(-90deg);
 }
 
 .sideanchor{
-  padding-left: 5px;
+  padding-right: 10px;
   color: black;
+  
 }
 
 .github{
