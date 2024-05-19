@@ -2,8 +2,6 @@
   text-align: center;
   background-color: white;
   scroll-snap-type: y mandatory;
-  overflow-y: scroll;
-  height: 100vh;
 }
 
 .App-header {
