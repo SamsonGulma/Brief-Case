@@ -86,6 +86,12 @@ function App() {
 
       </section>
 
+      <section className='onThird'>
+        <h1>
+          on Third
+        </h1>
+      </section>
+
 
     </div>
   );
