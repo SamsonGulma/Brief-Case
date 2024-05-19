@@ -48,7 +48,7 @@ function App() {
         </a>
       </button>
 
-      <hr className='horizontal'/>
+      <div className='pocket'> </div>
 
       <div className='sidenavbar'>
 
