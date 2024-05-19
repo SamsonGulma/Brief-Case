@@ -50,7 +50,7 @@ function App() {
 
 
 
-      <div className='navbar'>
+      <div className='sidenavbar'>
         <a href='somewhere'>
           Contact
         </a>
