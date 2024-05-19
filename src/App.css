@@ -243,7 +243,7 @@
   }
 
   50% {
-    transform: skew(5deg);
+    transform: skew(10deg);
   }
 
   100% {
