@@ -1,4 +1,5 @@
 import './App.css';
+import blob from'./assets/blob.svg'
 import picture from './assets/ipic.jpg'
 import linkedIn from './assets/icons8-linkedin.gif'
 import github from './assets/icons8-github-48.png'
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
 
       <div className="App-header">
+        <img className='onBack' src={blob} alt=''/>
           Software<br />Engineering <br /> Student <br /> at ASTU 
       </div>
 
