@@ -2,6 +2,13 @@
   text-align: center;
   background-color: white;
   scroll-snap-type: y mandatory;
+  overflow: scroll;
+  height: 100vh;
+}
+
+section{
+  height: 100vh;
+  scroll-snap-align: start;
 }
 
 .App-header {
@@ -22,10 +29,6 @@
   top: 15%;
 }
 
-section{
-  height: 100vh;
-  scroll-snap-align: start;
-}
 
 .pic img{
   width: 200px;
