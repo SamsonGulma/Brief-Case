@@ -90,7 +90,7 @@
   transition: 500ms;
 }
 
-.hey:not(:hover()){
+.hey:not(:hover){
   transform: skew(0deg);
   transition: 500ms;
 }
