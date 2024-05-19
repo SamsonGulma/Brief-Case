@@ -267,26 +267,10 @@
 }
 
 .myWork:hover{
-  transition: 100ms;
-  animation: myworkhover 3s linear backwards;
+  transform: rotate(0deg) translateY(-3rem) rotate(-10deg);
+  transition: 500ms;
 }
 
-@keyframes myworkhover {
-  0% {
-  transform: rotate(0deg) translateY(-3rem) rotate(-10deg);  }
-
-  25% {
-  transform: rotate(0deg) translateY(-3rem) rotate(-10deg);  }
-
-  50% {
-  transform: rotate(0deg) translateY(-3rem) rotate(-10deg);  }
-
-  75% {
-  transform: rotate(0deg) translateY(-3rem) rotate(-10deg);  }
-
-  100% {
-  transform: rotate(0deg) translateY(-3rem) rotate(-10deg);  }
-}
 
 .myworkanchor{
   margin-top: 100px;
