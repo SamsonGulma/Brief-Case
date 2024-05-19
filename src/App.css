@@ -242,12 +242,12 @@
     transform: skew(5deg);
   }
 
-  50% {
-    transform: skew(10deg);
+  75% {
+    transform: skew(15deg);
   }
 
   100% {
-    transform: skew(15deg);
+    transform: skew(20deg);
   }
 }
 
@@ -279,8 +279,9 @@
 
 .sideanchor{
   position: absolute;
-  top: 2%;
+  top: 120%;
   left: 0%;
+  padding-left: 5px;
   color: black;
 }
 
