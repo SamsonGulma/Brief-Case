@@ -276,10 +276,11 @@
 
 .horizontal{
   width: 300px;
-  height: 70px;
+  height: 105px;
   position: absolute;
-  top: 95%;
-  left: 25%;
+  top: 98%;
+  left: 22%;
+  border-color: white;
 }
 
 .sidenavbar{
