@@ -110,6 +110,10 @@
   align-items: center;
 }
 
+.sam:hover{
+  transform: translate(40px, 20px) rotate(20deg);
+}
+
 .sam,
 ::after {
   content: '';
