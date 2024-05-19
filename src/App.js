@@ -19,7 +19,7 @@ function App() {
       </div>
 
       <div className='pic'>
-      <img src={picture} alt=''/>
+      <img className='ipic' src={picture} alt=''/>
       </div>
 
       <div className='sam'><p>Sam</p></div>
