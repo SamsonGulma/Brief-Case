@@ -62,25 +62,29 @@ function App() {
         </button>
 
         <div className='pocket'> </div>
-</section>
-      <div className='sidenavbar'>
-
-        <a className='sideanchor' href='somewhere'>
-          Work
-        </a>
-        <a className='sideanchor' href='somewhere'>
-          About
-        </a>
-        <a className='sideanchor' href='somewhere'>
-          Contact
-        </a>
-      </div>
-
+   </section>
       <div className='github'>
         <img src = {github} alt=''/>
 
         <p> <a href='somewhere'>GitHub</a> </p>
       </div>
+
+      <section className='onSecond'>
+
+        <div className='sidenavbar'>
+
+          <a className='sideanchor' href='somewhere'>
+            Work
+          </a>
+          <a className='sideanchor' href='somewhere'>
+            About
+          </a>
+          <a className='sideanchor' href='somewhere'>
+            Contact
+          </a>
+        </div>
+
+      </section>
 
 
     </div>
