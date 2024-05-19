@@ -240,18 +240,14 @@
 .sidenavbar{
   transform: rotate(-90deg);
   position: absolute;
-  margin-top: 20px;
   top: 140%;
   left: 0%;
-  flex: auto;
+  color: black;
   flex-direction: column;
 }
 
 .sidenavbar a{
   text-decoration: none;
-  margin-top: 0;
-  padding-top: 0;
-  padding-left: 50px;
 }
 
 .github{
