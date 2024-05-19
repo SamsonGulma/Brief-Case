@@ -226,7 +226,7 @@
 
 ::after {
   content: '';
-  animation: skewer 3s ease alternate-reverse infinite;
+  animation: skewer 3s infinite linear;
 }
 
 @keyframes skewer {
@@ -239,7 +239,7 @@
   }
 
   50% {
-    transform: skew(15deg);
+    transform: skew(-15deg);
   }
 
   100% {
