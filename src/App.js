@@ -18,9 +18,9 @@ function App() {
         </p>
       </div>
 
-      <div className='pic'>
+      <span className='pic'>
       <img className='ipic' src={picture} alt=''/>
-      </div>
+      </span>
 
       <div className='sam'><p>Sam</p></div>
       <img className='linkedin' src={linkedIn} alt=''
