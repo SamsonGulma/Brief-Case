@@ -274,7 +274,10 @@
   text-decoration: none;
 }
 
-
+.horizontal{
+  width: 70px;
+  height: 70px;
+}
 
 .sidenavbar{
   position: absolute;
