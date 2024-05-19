@@ -222,9 +222,31 @@
   rotate: 5deg;
 }
 
-.intouch:hover{
-  transform: skew(-15deg);
+.intouch,
+
+::after {
+  content: '';
+  animation: skewer 3s ease alternate-reverse infinite;
 }
+
+@keyframes skewer {
+  0% {
+    transform: skew(15deg);
+  }
+
+  25% {
+    transform: skew(-15deg);
+  }
+
+  50% {
+    transform: skew(15deg);
+  }
+
+  100% {
+    transform: skew(-15deg);
+  }
+}
+
 
 .myWork{
   width: 200px;
