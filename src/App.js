@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react'
-import OnscrollEvents from './components/OnscrollEvents'
 import './App.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css'
@@ -9,8 +8,20 @@ import github from './assets/icons8-github-48.png'
 
 
 function App() {
-      const section1 = document.getElementsByClassName('onFirst');
-  console.log(section1)
+     /*
+     !!!! the on scroll event 
+     */
+    const section1 = document.getElementsByClassName('onFirst');
+    console.log(typeof(document.getElementsByClassName('onFirst')
+      ))
+    window.addEventListener('scroll', () => {
+        const scrollOnY = window.scrollY;  
+        console.log( typeof(scrollOnY));
+
+        if (scrollOnY === 20) {
+            section1.style.backgroundColor = 'black';
+        }
+    })
 
   useEffect(() => {
     AOS.init(
