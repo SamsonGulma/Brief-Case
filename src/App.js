@@ -19,7 +19,7 @@ function App() {
   }, []
   );
   return (
-    <div cl5assName="App">
+    <div className="App">
 
       <div className='shape'><h3>Hello There, <br />Welcome to<br /> my website.</h3></div>
       
