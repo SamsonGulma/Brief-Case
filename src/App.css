@@ -364,17 +364,16 @@
 
 .card1{
   position: absolute;
-  top: 135%;
+  top: 132%;
   left: 40%;
   width: 350px;
   height: 450px;
   transform: translateX(-7rem) rotate(-55deg);
-  background-color: rgb(242, 113, 175);
-  filter: opacity(60%);
+  background-color: rgb(202, 108, 253);
 }
 .card2{
   position: absolute;
-  top: 135%;
+  top: 132%;
   left: 40%;
   width: 350px;
   height: 450px;
@@ -384,7 +383,7 @@
 }
 .card3{
   position: absolute;
-  top: 135%;
+  top: 132%;
   left: 40%;
   width: 350px;
   height: 450px;
@@ -394,7 +393,7 @@
 }
 .card4{
   position: absolute;
-  top: 135%;
+  top: 132%;
   left: 40%;
   width: 350px;
   height: 450px;
@@ -402,6 +401,8 @@
   background-color: rgb(128, 239, 239);
   filter: opacity(95%);
 }
+
+2
 
 .github{
   width: 60px;
