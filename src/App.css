@@ -18,7 +18,7 @@
 .shape2 {
   width: 300px;
   height: 300px;
-  clip-path: polygon(50% 0%, 75% 48%, 50% 100%, 11% 50%);
+  clip-path: polygon(50% 0%, 90% 20%, 77% 38%, 80% 99%, 46% 63%, 44% 32%, 16% 13%);
   background-color: black;
 }
 .shape3 {
