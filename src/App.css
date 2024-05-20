@@ -28,9 +28,9 @@
   background-color: black;
 }
 .shape4 {
-  width: 200px;
-  height: 200px;
-  clip-path: polygon(50% 0%, 75% 48%, 50% 100%, 11% 50%);
+  width: 100px;
+  height: 100px;
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
   background-color: black;
 }
 .shape5 {
