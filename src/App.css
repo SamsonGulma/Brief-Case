@@ -408,9 +408,10 @@
   transition: 500ms;
 }
 
-.card:not(:hover){
+.card4:not(:hover){
   filter: opacity(100%);
-  transform: rotate(0deg) translateX(30rem);
+  transform: rotate(0deg) translateX(10rem) rotate(-10deg);
+  transition: 500ms;
 }
 
 .github{
