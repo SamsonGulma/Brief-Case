@@ -356,7 +356,6 @@
   width: 500px;
   height: 500px;
   display: flex;
-  flex-direction: row;
   position: absolute;
   top: 130%;
   left: 40%;
@@ -368,7 +367,7 @@
   top: 50%;
   width: 100px;
   height: 100px;
-  background-color: transparent;
+  background-color: aqua;
 }
 .card2{
   position:relative;
