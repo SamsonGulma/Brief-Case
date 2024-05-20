@@ -96,10 +96,17 @@ function App() {
         </div>
 
         <div className='cards'>
-        <div className='card1'></div>
-        <div className='card2'></div>
-        <div className='card3'></div>
-        <div className='card4'></div>
+          <div className='card1'>
+          <div className='card2'>
+          <div className='card3'>     
+          <div className='card4'>
+            
+        </div>
+        </div>
+            
+        </div>
+            
+        </div>
         <div className='card5'></div>
         <div className='card6'></div>
         </div>
