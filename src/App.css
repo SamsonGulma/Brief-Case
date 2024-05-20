@@ -398,24 +398,6 @@
   transform: translateX(-10rem) rotate(-10deg);
   background-color: rgb(15, 19, 19);
 }
-.card5{
-  position: absolute;
-  top: 135%;
-  left: 40%;
-  width: 200px;
-  height: 250px;
-  transform: rotate(-35deg);
-  background-color: rgb(137, 88, 188);
-}
-.card6{
-  position: absolute;
-  top: 135%;
-  left: 40%;
-  width: 200px;
-  height: 250px;
-  transform: rotate(-20deg);
-  background-color: rgb(91, 89, 48);
-}
 
 .github{
   width: 60px;
