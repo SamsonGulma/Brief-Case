@@ -95,7 +95,6 @@ function App() {
 
         </div>
 
-        <div className='cards'>
           <div className='card1'>
           </div>
           <div className='card2'>
@@ -106,7 +105,6 @@ function App() {
           </div>
           <div className='card6'>           
           </div>             
-        </div>
           <div className='card5'>
           </div>
               
