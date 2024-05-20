@@ -6,12 +6,42 @@
   height: 100vh;
 }
 
+
+
+
 .shape1{
   width: 300px;
   height: 300px;
   clip-path: polygon(50% 0%, 75% 48%, 50% 100%, 11% 50%);
   background-color: black;
 }
+.shape2 {
+  width: 300px;
+  height: 300px;
+  clip-path: polygon(50% 0%, 75% 48%, 50% 100%, 11% 50%);
+  background-color: black;
+}
+.shape3 {
+  width: 300px;
+  height: 300px;
+  clip-path: polygon(50% 0%, 75% 48%, 50% 100%, 11% 50%);
+  background-color: black;
+}
+.shape4 {
+  width: 300px;
+  height: 300px;
+  clip-path: polygon(50% 0%, 75% 48%, 50% 100%, 11% 50%);
+  background-color: black;
+}
+.shape5 {
+  width: 300px;
+  height: 300px;
+  clip-path: polygon(50% 0%, 75% 48%, 50% 100%, 11% 50%);
+  background-color: black;
+}
+
+
+
 
 section{
   height: 100vh;
