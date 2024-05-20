@@ -149,8 +149,8 @@ section{
   font-family: 'Times New Roman', Times, serif;
   font-size: large;
   font-weight: bold;
-  padding: 13px;
-  align-items: center;
+  padding-top: 30px;
+  padding-left: 10px;
 }
 
 .sam,
