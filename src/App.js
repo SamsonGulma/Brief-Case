@@ -80,6 +80,8 @@ function App() {
           Work and <br />Experiences
         </p>
 
+           <div className='samside'> <div className='dotside'></div> <p>Sam</p></div>
+
         <div className='sidenavbar'>
 
           <button className='sidebtn'>
