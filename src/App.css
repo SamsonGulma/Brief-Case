@@ -352,25 +352,23 @@
   cursor: pointer;
 }
 
-
-.cards {
-  background: white;
-  box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
-  border-radius: 50px;
-  width: 400px;
-  text-align: center;
-  padding: 24px;
-  margin: 20px;
+.cards{
+  width: 500px;
+  height: 500px;
+  display: block;
+  position: absolute;
+  top: 130%;
+  left: 40%;
+  background-color: #ffffff;
 }
 
-.card1 {
-  width: 360px;
-  height: 360px;
-  object-fit: cover;
-  border-radius: 4px;
+.card1{
+  position:relative;
+  top: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
 }
-
-
 .card2{
   position:relative;
   top: 50%;
