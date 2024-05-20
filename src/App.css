@@ -344,7 +344,7 @@ section{
 
 .sidenavbar{
   position: absolute;
-  top: 150%;
+  top: 140%;
   left: 0%;
   display: flex;
   flex-direction: column;
