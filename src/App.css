@@ -355,9 +355,7 @@
 .cards{
   width: 100px;
   height: 100px;
-  position: relative;
-  top: 50vh;
-  left: 50%;
+ 
   align-items: center;
   background-color: antiquewhite;
 }
