@@ -370,6 +370,7 @@
   height: 450px;
   transform: translateX(-7rem) rotate(-55deg);
   background-color: rgb(242, 113, 175);
+  filter: opacity(60%);
 }
 .card2{
   position: absolute;
@@ -379,6 +380,7 @@
   height: 450px;
   transform: translateX(-1rem) rotate(-40deg);
   background-color: rgb(236, 161, 68);
+  filter: opacity(70%);
 }
 .card3{
   position: absolute;
@@ -388,6 +390,7 @@
   height: 450px;
   transform: translateX(5rem) rotate(-25deg);
   background-color: rgb(94, 110, 230);
+  filter: opacity(80%);
 }
 .card4{
   position: absolute;
@@ -397,7 +400,7 @@
   height: 450px;
   transform: translateX(10rem) rotate(-10deg);
   background-color: rgb(128, 239, 239);
-  filter: blur(1) opacity();
+  filter: opacity(95%);
 }
 
 .github{
