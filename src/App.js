@@ -103,10 +103,7 @@ function App() {
           </div>
           <div className='card4'> 
           </div>
-          <div className='card6'>           
-          </div>             
-          <div className='card5'>
-          </div>
+                     
               
               
               

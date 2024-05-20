@@ -368,7 +368,7 @@
   left: 40%;
   width: 200px;
   height: 250px;
-  transform: rotate(-45deg);
+  transform: rotate(-65deg);
   background-color: aqua;
 }
 .card2{
@@ -377,7 +377,7 @@
   left: 40%;
   width: 200px;
   height: 250px;
-  transform: rotate(-40deg);
+  transform: rotate(-50deg);
   background-color: rgb(42, 53, 53);
 }
 .card3{
@@ -395,7 +395,7 @@
   left: 40%;
   width: 200px;
   height: 250px;
-  transform: rotate(-30deg);
+  transform: rotate(-20deg);
   background-color: rgb(15, 19, 19);
 }
 .card5{
@@ -404,7 +404,7 @@
   left: 40%;
   width: 200px;
   height: 250px;
-  transform: rotate(-25deg);
+  transform: rotate(-35deg);
   background-color: rgb(137, 88, 188);
 }
 .card6{
