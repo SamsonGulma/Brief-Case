@@ -363,9 +363,9 @@
 }
 
 .card1{
-  position:relative;
+  position: relative;
   top: 50%;
-  left: 0%;
+  left: 40%;
   width: 100px;
   height: 100px;
   background-color: aqua;
