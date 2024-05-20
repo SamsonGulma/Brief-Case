@@ -95,6 +95,14 @@ function App() {
 
         </div>
 
+        <div className='cards'></div>
+        <div className='cards'></div>
+        <div className='cards'></div>
+        <div className='cards'></div>
+        <div className='cards'></div>
+        <div className='cards'></div>
+
+
       </section>
 
       <section className='onThird'>
