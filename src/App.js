@@ -13,19 +13,19 @@ function App() {
   useEffect(() => {
     AOS.init(
       {
-        duration: 1000
+        duration: 7000
       }
     )
   }, []
   );
   return (
-    <div className="App">
+    <div cl5assName="App">
 
       <div className='shape'><h3>Hello There, <br />Welcome to<br /> my website.</h3></div>
       
 
       <section className='onFirst'> 
-        <div className="App-header" data-aos="fade-up">
+        <div className="App-header" data-aos="fade-down">
           
           Software<br />Engineering <br /> Student <br /> at ASTU 
         </div>
