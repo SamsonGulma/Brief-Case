@@ -361,6 +361,12 @@ section{
   margin-top: 70px;
 }
 
+.sideanchor:hover{
+  color: black;
+  background-color: white;
+  width: 100px;
+}
+
 .github{
   width: 60px;
   height: 170px;
