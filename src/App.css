@@ -395,13 +395,13 @@
 .card3:hover {
   filter: opacity(100%);
   transform: rotate(0deg) translateX(30rem);
-  transition: 500ms;
+  transition: 700ms;
 }
 
 .card3:not(:hover) {
   filter: opacity(100%);
   transform: rotate(-25deg) translateX(5rem) rotate(0deg);
-  transition: 500ms;
+  transition: 700ms;
 }
 
 .card4{
