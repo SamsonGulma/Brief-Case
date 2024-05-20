@@ -381,6 +381,18 @@
   background-color: rgb(236, 161, 68);
   filter: opacity(70%);
 }
+.card2:hover {
+  filter: opacity(100%);
+  transform: rotate(0deg) translateX(-40rem);
+  transition: 700ms;
+}
+
+.card2:not(:hover) {
+  filter: opacity(70%);
+  transform: rotate(-40deg) translateX(0rem) rotate(0deg);
+  transition: 700ms;
+}
+
 .card3{
   position: absolute;
   top: 132%;
@@ -390,7 +402,6 @@
   transform: translateX(5rem) rotate(-25deg);
   background-color: rgb(94, 110, 230);
   filter: opacity(80%);
-    transition: 700ms;
 }
 
 .card3:hover {
