@@ -81,7 +81,7 @@ function App() {
 
           <button className='sidebtn'>
           
-            Work
+            Tools
           </button>
 
           <button className='sidebtn'>
