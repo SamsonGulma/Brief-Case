@@ -18,7 +18,7 @@ function App() {
         const scrollOnY = window.scrollY;  
         console.log( typeof(scrollOnY));
 
-        if (scrollOnY === 20) {
+        if (Math.ceil(scrollOnY) === 20) {
             document.body.style.backgroundColor = 'black';
         }
     })
