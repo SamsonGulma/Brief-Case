@@ -365,6 +365,8 @@ section{
   color: black;
   background-color: white;
   width: 100px;
+  height: 100px;
+  cursor: pointer;
 }
 
 .github{
