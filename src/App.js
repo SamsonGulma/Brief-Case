@@ -100,16 +100,18 @@ function App() {
           <div className='card2'>
           <div className='card3'>     
           <div className='card4'>
-            
-        </div>
-        </div>
-            
-        </div>
-            
-        </div>
-        <div className='card5'></div>
-        <div className='card6'></div>
-        </div>
+          <div className='card5'>
+          <div className='card6'>           
+          </div>             
+          </div>
+          </div>
+          </div>
+          </div>
+          </div>
+          </div>
+              
+              
+              
 
 
       </section>
