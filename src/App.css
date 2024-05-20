@@ -357,7 +357,7 @@ section{
   color: white;
   background-color: black;
   border: none;
-  width: 100px;
+  height: 300px;
   align-items: center;
   transform: rotate(-90deg);
   margin-top: 70px;
