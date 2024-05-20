@@ -412,12 +412,15 @@
 }
 
 .card1:hover {
+  box-shadow: 20px 20px 60px #b6c1b6,
+      -20px -20px 60px #686c68;
   filter: opacity(100%);
   transform: rotate(0deg) translateX(-40rem);
   transition: 700ms;
 }
 
 .card1:not(:hover) {
+  
   filter: opacity(80%);
   transform:  translateX(-5rem) rotate(-55deg);
   transition: 700ms;
@@ -435,6 +438,8 @@
   filter: opacity(70%);
 }
 .card2:hover {
+  box-shadow: 20px 20px 60px #5e5d5c,
+      -20px -20px 60px rgb(171, 163, 163);
   filter: opacity(100%);
   transform: rotate(0deg) translateX(-40rem);
   transition: 700ms;
@@ -459,6 +464,8 @@
 }
 
 .card3:hover {
+  box-shadow: 20px 20px 60px #887f7b,
+      -20px -20px 60px rgb(179, 170, 170);
   filter: opacity(100%);
   transform: rotate(0deg) translateX(40rem);
   transition: 700ms;
