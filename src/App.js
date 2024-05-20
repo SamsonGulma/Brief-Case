@@ -95,7 +95,10 @@ function App() {
 
         </div>
 
-          <div className='card1'>
+        <div className='card1'>
+          <p>
+            I have a good news
+          </p>
           </div>
           <div className='card2'>
           </div>
