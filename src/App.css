@@ -8,8 +8,7 @@
 
 
 .shape{
-  width: 210px;
-  height: 210px;
+  
   position: absolute;
   align-items: center;
   top: 0%;
@@ -20,7 +19,6 @@
 .shape h3{
   color: white;
   font-family: 'Courier New', Courier, monospace;
-  margin-top: 65px;
 }
 
 
