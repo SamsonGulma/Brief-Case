@@ -320,7 +320,7 @@
 
 .onSecond{
   height: 100vh;
-  background-color: rgb(143, 85, 85);
+  background-color: rgb(255, 255, 255);
 }
 
 .sidenavbar{
@@ -397,6 +397,7 @@
   height: 450px;
   transform: translateX(10rem) rotate(-10deg);
   background-color: rgb(128, 239, 239);
+  filter: blur(1) opacity();
 }
 
 .github{
