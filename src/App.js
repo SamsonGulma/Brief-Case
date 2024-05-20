@@ -100,11 +100,20 @@ function App() {
             I have a good news
           </p>
           </div>
-          <div className='card2'>
+        <div className='card2'>
+          <p>
+            Now another good news
+          </p>
           </div>
-          <div className='card3'>     
+        <div className='card3'>    
+          <p>
+            Today is the one.
+          </p>
           </div>
-          <div className='card4'> 
+        <div className='card4'> 
+          <p>
+            Much more facinating
+          </p>
           </div>
                      
               
