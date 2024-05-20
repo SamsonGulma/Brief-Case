@@ -20,11 +20,11 @@ function App() {
   return (
     <div className="App">
 
-      <div id='shapes' className='shape1'></div>
-      <div id='shapes' className='shape2'></div>
-      <div id='shapes' className='shape3'></div>
-      <div id='shapes' className='shape4'></div>
-      <div id='shapes' className='shape5'></div>
+      <div  className='shape1'></div>
+      <div  className='shape2'></div>
+      <div  className='shape3'></div>
+      <div  className='shape4'></div>
+      <div  className='shape5'></div>
     
       
 
