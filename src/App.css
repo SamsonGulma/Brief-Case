@@ -444,7 +444,7 @@
 
 .card4:hover{
   box-shadow: 20px 20px 60px #bfafb2,
-    -20px -20px 60px rgb(163, 141, 141);
+    -20px -20px 60px rgb(229, 198, 198);
   filter: opacity(100%);
   transform: rotate(0deg) translateX(40rem);
   transition: 500ms;
