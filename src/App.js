@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import './components/OnscrollEvents'
 import './App.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css'
