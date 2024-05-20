@@ -368,7 +368,7 @@
   left: 40%;
   width: 200px;
   height: 250px;
-  transform: rotate(-65deg);
+  transform: rotate(-65deg) translateX(-10rem);;
   background-color: aqua;
 }
 .card2{
@@ -377,7 +377,7 @@
   left: 40%;
   width: 200px;
   height: 250px;
-  transform: rotate(-50deg);
+  transform: rotate(-50deg) translateX(-10rem);;
   background-color: rgb(42, 53, 53);
 }
 .card3{
@@ -386,7 +386,7 @@
   left: 40%;
   width: 200px;
   height: 250px;
-  transform: rotate(-35deg);
+  transform: rotate(-35deg) translateX(-10rem);;
   background-color: rgb(31, 42, 42);
 }
 .card4{
@@ -395,7 +395,7 @@
   left: 40%;
   width: 200px;
   height: 250px;
-  transform: rotate(-20deg);
+  transform: rotate(-10deg) translateX(-10rem);
   background-color: rgb(15, 19, 19);
 }
 .card5{
