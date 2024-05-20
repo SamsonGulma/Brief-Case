@@ -364,7 +364,8 @@
 }
 
 .card1{
-  position:relative;
+  display: flex;
+  flex-direction: row;
   top: 50%;
   width: 100px;
   height: 100px;
