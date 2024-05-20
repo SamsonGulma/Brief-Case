@@ -349,7 +349,7 @@ section{
   display: flex;
   flex-direction: column;
   gap: 4rem;
-  margin-left: 20px;
+  margin-left: 1px;
 }
 
 .sideanchor{
