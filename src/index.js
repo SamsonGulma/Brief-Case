@@ -6,11 +6,11 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 window.addEventListener('scroll', () => {
-  const scrollable = (document.documentElement.scrollHeight - window.innerHeight)/40;
+  const scrollable = document.documentElement.scrollHeight - window.innerHeight;
         const scrollingY = window.scrollY;  
         console.log( typeof(scrollingY));
 
-        if (Math.ceil(scrollingY) === scrollable) {
+        if (Math.ceil(scrollingY) === scrollable ) {
           document.body.style.backgroundColor = 'black';
           alert("you have reached the number 20")
         }
