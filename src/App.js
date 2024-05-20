@@ -84,21 +84,17 @@ function App() {
         <div className='sidenavbar'>
 
           <button className='sideanchor'>
-          <a href='somewhere'>
+          
             Work
-          </a>
           </button>
 
           <button className='sideanchor'>
-          <a href='somewhere'>
             About  
-          </a>  
           </button>
 
           <button className='sideanchor'>  
-          <a href='somewhere'>
+      
             Contact
-          </a>
           </button>
 
         </div>
