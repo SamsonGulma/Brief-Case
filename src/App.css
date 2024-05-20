@@ -417,6 +417,8 @@
 }
 
 .card4:hover{
+  box-shadow: 20px 20px 60px #5e5d5d,
+      -20px -20px 60px #807d7d;
   filter: opacity(100%);
   transform: rotate(0deg) translateX(30rem);
   transition: 500ms;
