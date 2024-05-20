@@ -352,11 +352,9 @@ section{
   background-color: black;
 }
 
-.sideanchor{
-  color: white;
-  background-color: black;
+.sideanchor, .sideanchor a{
+  
   display: flex;
-  flex-direction: column;
   align-items: center;
   margin-top: 70px;
 }
