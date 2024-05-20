@@ -76,7 +76,7 @@ function App() {
         <div className='pocket'> </div>
       <section className='onSecond'>
 
-        <p>
+        <p className='workandexp'>
           Work and Experiences
         </p>
 
