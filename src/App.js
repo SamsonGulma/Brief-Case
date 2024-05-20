@@ -10,7 +10,8 @@ import github from './assets/icons8-github-48.png'
 
 function App() {
 
-  console.log(document.getElementsByClassName('onFirst'));
+  
+  OnscrollEvents();
 
   useEffect(() => {
     AOS.init(
@@ -26,7 +27,7 @@ function App() {
       <div className='shape'><h3>Hello There, <br />Welcome to<br /> my website.</h3></div>
       
 
-      <div className='onFirst'> 
+      <section className='onFirst'> 
         <div className="App-header" data-aos="fade-up">
           
           Software<br />Engineering <br /> Student <br /> at ASTU 
@@ -67,7 +68,7 @@ function App() {
           </a>
         </button>
 
-   </div>
+   </section>
       <div className='github'>
         <img src = {github} alt=''/>
 
