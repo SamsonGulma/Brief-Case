@@ -1,3 +1,3 @@
 const scrollOnY = window.scrollY;
 
-console.log(scrollOnY)
+console.log(scrollOnY);
