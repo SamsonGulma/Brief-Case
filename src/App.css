@@ -347,9 +347,8 @@ section{
   top: 140%;
   left: 0%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 4rem;
-  margin-left: 1px;
 }
 
 .sideanchor{
