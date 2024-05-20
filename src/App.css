@@ -392,7 +392,7 @@
   width: 350px;
   height: 450px;
   transform: translateX(-1rem) rotate(-40deg);
-  background-color: #666362;
+  background-color: #bfafb2;
   filter: opacity(70%);
 }
 .card2:hover {
@@ -414,7 +414,7 @@
   width: 350px;
   height: 450px;
   transform: translateX(5rem) rotate(-25deg);
-  background-color: rgb(94, 110, 230);
+  background-color: #666362;
   filter: opacity(80%);
 }
 
