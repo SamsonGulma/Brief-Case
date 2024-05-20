@@ -332,12 +332,11 @@
 }
 
 .samside {
-  width: 80px;
+  width: 73px;
   height: 80px;
   position: absolute;
-  top: 25%;
-  left: 15%;
-  rotate: -7deg;
+  top: 125%;
+  left: 0%;
   color: white;
   background-color: black;
   cursor: pointer;
