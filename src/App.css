@@ -368,7 +368,7 @@
   top: 50%;
   width: 100px;
   height: 100px;
-  background-color: aqua;
+  background-color: transparent;
 }
 .card2{
   position:relative;
