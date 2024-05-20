@@ -347,12 +347,18 @@ section{
   top: 140%;
   left: 0%;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 4rem;
+  background-color: black;
+  padding: 20px;
 }
 
 .sideanchor{
-  color: black;
+
+  color: white;
+  background-color: black;
+  align-items: center;
+  padding-right: 20px;
 }
 
 .github{
