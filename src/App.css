@@ -391,6 +391,19 @@
   background-color: rgb(94, 110, 230);
   filter: opacity(80%);
 }
+
+.card3:hover {
+  filter: opacity(100%);
+  transform: rotate(0deg) translateX(30rem);
+  transition: 500ms;
+}
+
+.card3:not(:hover) {
+  filter: opacity(100%);
+  transform: rotate(0deg) translateX(10rem) rotate(-10deg);
+  transition: 500ms;
+}
+
 .card4{
   position: absolute;
   top: 132%;
