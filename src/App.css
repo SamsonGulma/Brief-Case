@@ -369,7 +369,7 @@
   width: 350px;
   height: 450px;
   transform: translateX(-7rem) rotate(-55deg);
-  background-color: aqua;
+  background-color: rgb(242, 113, 175);
 }
 .card2{
   position: absolute;
@@ -378,7 +378,7 @@
   width: 350px;
   height: 450px;
   transform: translateX(-1rem) rotate(-40deg);
-  background-color: rgb(42, 53, 53);
+  background-color: rgb(236, 161, 68);
 }
 .card3{
   position: absolute;
@@ -387,7 +387,7 @@
   width: 350px;
   height: 450px;
   transform: translateX(5rem) rotate(-25deg);
-  background-color: rgb(31, 42, 42);
+  background-color: rgb(94, 110, 230);
 }
 .card4{
   position: absolute;
@@ -396,7 +396,7 @@
   width: 350px;
   height: 450px;
   transform: translateX(10rem) rotate(-10deg);
-  background-color: rgb(15, 19, 19);
+  background-color: rgb(128, 239, 239);
 }
 
 .github{
