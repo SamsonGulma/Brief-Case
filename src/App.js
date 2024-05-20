@@ -12,14 +12,14 @@ function App() {
      !!!! the on scroll event 
      */
     const section1 = document.getElementsByClassName('onFirst');
-    console.log(typeof(document.getElementsByClassName('onFirst')
-      ))
+    console.log(typeof (document.getElementsByClassName('onFirst')));
+
     window.addEventListener('scroll', () => {
         const scrollOnY = window.scrollY;  
         console.log( typeof(scrollOnY));
 
-        if (scrollOnY == 20) {
-            section1.style.backgroundColor = 'black';
+        if (scrollOnY === 20) {
+            document.body.style.backgroundColor = 'black';
         }
     })
 
