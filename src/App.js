@@ -76,6 +76,9 @@ function App() {
         <div className='pocket'> </div>
       <section className='onSecond'>
 
+        <p>
+          Work and Experiences
+        </p>
 
         <div className='sidenavbar'>
 
