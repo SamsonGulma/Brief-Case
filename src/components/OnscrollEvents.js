@@ -3,7 +3,7 @@ import React from 'react'
 
 const OnscrollEvents = () => {
     const section1 = document.getElementsByClassName('onFirst');
-
+    console.log(typeof(section1))
     window.addEventListener('scroll', () => {
         const scrollOnY = window.scrollY;  
         console.log(scrollOnY);
