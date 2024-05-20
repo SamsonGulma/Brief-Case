@@ -10,10 +10,8 @@ import github from './assets/icons8-github-48.png'
 
 function App() {
 
-const scrollOnY = window.scrollY;
+  <OnscrollEvents/>
 
-  console.log(scrollOnY);
-  
   useEffect(() => {
     AOS.init(
       {
