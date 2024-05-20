@@ -75,8 +75,10 @@ function App() {
         <p> <a href='somewhere'>GitHub</a> </p>
       </div>
 
-      <section className='onSecond'>
+      <section>
+
         <div className='pocket'> </div>
+      <section className='onSecond'>
 
 
         <div className='sidenavbar'>
@@ -94,6 +96,7 @@ function App() {
 
       </section>
 
+      </section>
       <section className='onThird'>
         <h1>
           on Third
