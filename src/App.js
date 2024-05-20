@@ -18,7 +18,7 @@ function App() {
         const scrollOnY = window.scrollY;  
         console.log( typeof(scrollOnY));
 
-        if (scrollOnY === 20) {
+        if (scrollOnY == 20) {
             section1.style.backgroundColor = 'black';
         }
     })
