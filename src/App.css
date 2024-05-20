@@ -355,7 +355,9 @@ section{
 .sidebtn{
   color: white;
   background-color: black;
-  border: none;
+  border-style: none;
+  border-color: black;
+  height: 57px;
   align-items: center;
   transform: rotate(-90deg);
   margin-top: 70px;
@@ -364,6 +366,7 @@ section{
 .sidebtn:hover{
   color: black;
   background-color: white;
+  border-color: white;
   cursor: pointer;
 }
 
