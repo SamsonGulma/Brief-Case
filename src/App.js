@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
 
-      <div  className='shape'><h2>Welcome</h2></div>
+      <div  className='shape'><h3>Hello There, <br />Welcome to<br /></h3></div>
       
 
       
