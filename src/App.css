@@ -305,7 +305,6 @@ section{
   margin-top: 100px;
   border-style: none;
   cursor: pointer;
-  z-index: 1;
 }
 
 .myWork:hover{
@@ -335,13 +334,12 @@ section{
   background-color: white;
   box-shadow: 13px -13px 21px white,
     -13px 13px 26px transparent;
-  z-index: -1;
+  
 }
 
 .onSecond{
-  background-color: black;
-
-    z-index: -1;
+  
+  background-color: white;
 }
 
 .sidenavbar{
@@ -353,7 +351,8 @@ section{
 
 .sideanchor{
   padding-right: 10px;
-  color: white;
+  color: black;
+  padding-left: 50px;
   
 }
 

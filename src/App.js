@@ -75,7 +75,7 @@ function App() {
         <p> <a href='somewhere'>GitHub</a> </p>
       </div>
 
-      <section>
+      
 
         <div className='pocket'> </div>
       <section className='onSecond'>
@@ -94,7 +94,7 @@ function App() {
           </a>
         </div>
 
-      </section>
+     
 
       </section>
       <section className='onThird'>
