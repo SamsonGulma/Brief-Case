@@ -19,7 +19,8 @@
 }
 .shape h3{
   position: relative;
-  top: 45%;
+  top: 20%;
+  right: -17%;
   color: white;
   font-family: 'Courier New', Courier, monospace;
 }
@@ -156,9 +157,9 @@ section{
 }
 .sam p {
   font-family: 'Times New Roman', Times, serif;
-  font-size: large;
+  font-size: x-large;
   font-weight: bolder;
-  padding-top: 30px;
+  padding-top: 25px;
   padding-left: 10px;
 }
 
