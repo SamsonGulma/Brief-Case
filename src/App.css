@@ -6,7 +6,7 @@
   height: 100vh;
 }
 
-.shapes{
+.shape1{
   width: 300px;
   height: 300px;
   clip-path: polygon(50% 0%, 75% 48%, 50% 100%, 11% 50%);

@@ -20,9 +20,13 @@ function App() {
   return (
     <div className="App">
 
-      <div className='shape1'>
-
-      </div>
+      <div className='shape1'></div>
+      <div className='shape2'></div>
+      <div className='shape3'></div>
+      <div className='shape4'></div>
+      <div className='shape5'></div>
+    
+      
 
      <section className='onFirst'> 
         <div className="App-header" data-aos="fade-up">
