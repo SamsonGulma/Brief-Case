@@ -400,7 +400,7 @@
 
 .card3:not(:hover) {
   filter: opacity(100%);
-  transform: rotate(0deg) translateX(10rem) rotate(-10deg);
+  transform: rotate(-25deg) translateX(5rem) rotate(0deg);
   transition: 500ms;
 }
 
