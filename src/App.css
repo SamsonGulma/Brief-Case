@@ -347,20 +347,22 @@ section{
   top: 140%;
   left: 0%;
   height: 480px;
-  
+  display: flex;
+  flex-direction: column;
   gap: 4rem;
   background-color: black;
 }
 
-.sideanchor{
+.sidebtn{
   color: white;
   background-color: black;
-  display: flex;
+  border: none;
   align-items: center;
+  transform: rotate(-90deg);
   margin-top: 70px;
 }
 
-.sideanchor:hover{
+.sidebtn:hover{
   color: black;
   background-color: white;
   width: 100px;

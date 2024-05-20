@@ -83,16 +83,16 @@ function App() {
 
         <div className='sidenavbar'>
 
-          <button className='sideanchor'>
+          <button className='sidebtn'>
           
             Work
           </button>
 
-          <button className='sideanchor'>
+          <button className='sidebtn'>
             About  
           </button>
 
-          <button className='sideanchor'>  
+          <button className='sidebtn'>  
       
             Contact
           </button>
