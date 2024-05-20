@@ -95,12 +95,14 @@ function App() {
 
         </div>
 
-        <div className='cards'></div>
-        <div className='cards'></div>
-        <div className='cards'></div>
-        <div className='cards'></div>
-        <div className='cards'></div>
-        <div className='cards'></div>
+        <div className='cards'>
+        <div className='cards1'></div>
+        <div className='cards2'></div>
+        <div className='cards3'></div>
+        <div className='cards4'></div>
+        <div className='cards5'></div>
+        <div className='cards6'></div>
+        </div>
 
 
       </section>
