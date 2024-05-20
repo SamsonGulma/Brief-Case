@@ -370,7 +370,21 @@
   height: 450px;
   transform: translateX(-7rem) rotate(-55deg);
   background-color: rgb(202, 108, 253);
+  filter: opacity(95%);
 }
+
+.card1:hover {
+  filter: opacity(100%);
+  transform: rotate(0deg) translateX(40rem);
+  transition: 700ms;
+}
+
+.card1:not(:hover) {
+  filter: opacity(80%);
+  transform: rotate(-25deg) translateX(5rem) rotate(0deg);
+  transition: 700ms;
+}
+
 .card2{
   position: absolute;
   top: 132%;
