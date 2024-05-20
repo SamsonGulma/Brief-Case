@@ -443,8 +443,8 @@
 }
 
 .card4:hover{
-  box-shadow: 20px 20px 60px #1b353f,
-    -20px -20px 60px #254755;
+  box-shadow: 20px 20px 60px #4d6a76,
+    -20px -20px 60px #6990a0;
   filter: opacity(100%);
   transform: rotate(0deg) translateX(40rem);
   transition: 500ms;
