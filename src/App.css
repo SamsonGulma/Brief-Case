@@ -373,7 +373,7 @@
 .card2{
   position:relative;
   top: 50%;
-  left: 0%;
+  left: 40%;
   width: 100px;
   height: 100px;
   background-color: rgb(42, 53, 53);
@@ -381,7 +381,7 @@
 .card3{
   position:relative;
   top: 50%;
-  left: 0%;
+  left: 40%;
   width: 100px;
   height: 100px;
   background-color: rgb(31, 42, 42);
@@ -389,7 +389,7 @@
 .card4{
   position:relative;
   top: 50%;
-  left: 0%;
+  left: 40%;
   width: 100px;
   height: 100px;
   background-color: rgb(15, 19, 19);
@@ -397,7 +397,7 @@
 .card5{
   position:relative;
   top: 50%;
-  left: 0%;
+  left: 40%;
   width: 100px;
   height: 100px;
   background-color: rgb(137, 88, 188);
@@ -405,7 +405,7 @@
 .card6{
   position:relative;
   top: 50%;
-  left: 0%;
+  left: 40%;
   width: 100px;
   height: 100px;
   background-color: rgb(91, 89, 48);
