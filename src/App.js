@@ -77,7 +77,6 @@ function App() {
       <section className='onSecond'>
 
 
-        <div className='sidenavbar'>
 
           <button className='sidebtn'>
           
@@ -93,7 +92,7 @@ function App() {
             Contact
           </button>
 
-        </div>
+        
 
         <div className='cards'>
           <div className='card1'>
