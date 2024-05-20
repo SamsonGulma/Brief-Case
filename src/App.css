@@ -366,17 +366,17 @@
   position: absolute;
   top: 50%;
   left: 40%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 250px;
   transform: rotate(45deg);
   background-color: aqua;
 }
 .card2{
   position: absolute;
-  top: 50%;
+  top: 150%;
   left: 40%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 250px;
   transform: rotate(40deg);
   background-color: rgb(42, 53, 53);
 }
@@ -384,8 +384,8 @@
   position: absolute;
   top: 50%;
   left: 40%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 250px;
   transform: rotate(35deg);
   background-color: rgb(31, 42, 42);
 }
@@ -393,8 +393,8 @@
   position: absolute;
   top: 50%;
   left: 40%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 250px;
   transform: rotate(30deg);
   background-color: rgb(15, 19, 19);
 }
@@ -402,8 +402,8 @@
   position: absolute;
   top: 50%;
   left: 40%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 250px;
   transform: rotate(25deg);
   background-color: rgb(137, 88, 188);
 }
@@ -411,8 +411,8 @@
   position: absolute;
   top: 50%;
   left: 40%;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 250px;
   transform: rotate(20deg);
   background-color: rgb(91, 89, 48);
 }
