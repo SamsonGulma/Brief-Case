@@ -338,7 +338,7 @@ section{
 }
 
 .onSecond{
-  
+  height: 100vh;
   background-color: white;
 }
 
@@ -389,4 +389,8 @@ section{
   font-size: large;
   color: white;
   transform: rotate(-90deg);
+}
+
+.onThird{
+  height: 100vh;
 }

@@ -99,9 +99,8 @@ function App() {
 
         </div>
 
-     
-
       </section>
+
       <section className='onThird'>
         <h1>
           on Third
