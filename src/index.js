@@ -6,11 +6,13 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 window.addEventListener('scroll', () => {
-        const scrollOnY = window.scrollY;  
-        console.log( typeof(scrollOnY));
+  const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+        const scrollingY = window.scrollY;  
+        console.log( typeof(scrollingY));
 
-        if (Math.ceil(scrollOnY) === 20) {
-            document.body.style.backgroundColor = 'black';
+        if (Math.ceil(scrollingY) === scrollable) {
+          document.body.style.backgroundColor = 'black';
+          alert("you have reached the bottom")
         }
     })
 root.render(
