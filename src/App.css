@@ -318,17 +318,16 @@
 }
 
 .onSecond{
-  height: 100vh;
+  height: 110vh;
   background-color: rgb(255, 255, 255);
 }
 
 .workandexp{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 3rem;
-
   font-weight: bold;
   position: relative;
-  top: 5%;
+  top: 10%;
   left: -30%;
 }
 
