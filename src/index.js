@@ -10,9 +10,9 @@ window.addEventListener('scroll', () => {
         const scrollingY = window.scrollY;  
         console.log( typeof(scrollingY));
 
-        if (Math.ceil(scrollingY) === scrollable) {
+        if (Math.ceil(scrollingY) === scrollable/40) {
           document.body.style.backgroundColor = 'black';
-          alert("you have reached the bottom")
+          alert("you have reached the number 20")
         }
     })
 root.render(
