@@ -14,14 +14,7 @@ function App() {
     const section1 = document.getElementsByClassName('onFirst');
     console.log(typeof (document.getElementsByClassName('onFirst')));
 
-    window.addEventListener('scroll', () => {
-        const scrollOnY = window.scrollY;  
-        console.log( typeof(scrollOnY));
-
-        if (Math.ceil(scrollOnY) === 20) {
-            document.body.style.backgroundColor = 'black';
-        }
-    })
+    
 
   useEffect(() => {
     AOS.init(

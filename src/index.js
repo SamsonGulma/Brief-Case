@@ -5,6 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+window.addEventListener('scroll', () => {
+        const scrollOnY = window.scrollY;  
+        console.log( typeof(scrollOnY));
+
+        if (Math.ceil(scrollOnY) === 20) {
+            document.body.style.backgroundColor = 'black';
+        }
+    })
 root.render(
   <React.StrictMode>
     <App />
