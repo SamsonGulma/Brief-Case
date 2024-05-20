@@ -393,9 +393,9 @@
   position: absolute;
   top: 135%;
   left: 40%;
-  width: 200px;
-  height: 250px;
-  transform: translateX(-10rem) rotate(-10deg);
+  width: 250px;
+  height: 350px;
+  transform: translateX(7rem) rotate(-10deg);
   background-color: rgb(15, 19, 19);
 }
 
