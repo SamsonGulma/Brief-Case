@@ -96,7 +96,7 @@ function App() {
         </div>
 
         <div className='cards'>
-          <image className='card1'>
+          <image className='card1' src='./assets/brick-wall.svg'>
           <image className='card2'>
           <image className='card3'>     
           <image className='card4'>
