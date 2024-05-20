@@ -26,7 +26,7 @@ function App() {
       <div className='shape'><h3>Hello There, <br />Welcome to<br /> my website.</h3></div>
       
 
-      <section className='onFirst'> 
+      <div className='onFirst'> 
         <div className="App-header" data-aos="fade-up">
           
           Software<br />Engineering <br /> Student <br /> at ASTU 
@@ -67,7 +67,7 @@ function App() {
           </a>
         </button>
 
-   </section>
+   </div>
       <div className='github'>
         <img src = {github} alt=''/>
 
