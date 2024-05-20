@@ -334,13 +334,15 @@
 }
 
 .sidebtn{
+  font-size: 5rem;
+  font-weight: bold;
   color: white;
   background-color: black;
   border-style: none;
   height: 57px;
   align-items: center;
   transform: rotate(-90deg);
-  margin-top: 70px;
+  margin-top: 50px;
 }
 
 .sidebtn:hover{
