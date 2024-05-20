@@ -337,6 +337,10 @@ section{
 
 }
 
+.onSecond{
+  background-color: black;
+}
+
 .sidenavbar{
   position: absolute;
   top: 150%;
@@ -346,7 +350,7 @@ section{
 
 .sideanchor{
   padding-right: 10px;
-  color: black;
+  color: white;
   
 }
 
