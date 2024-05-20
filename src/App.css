@@ -402,7 +402,10 @@
   filter: opacity(95%);
 }
 
-2
+.card4:hover{
+  filter: opacity(100%);
+  transform: rotate(0deg) translateX(30rem);
+}
 
 .github{
   width: 60px;
