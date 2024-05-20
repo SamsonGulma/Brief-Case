@@ -366,8 +366,8 @@
   position: absolute;
   top: 135%;
   left: 40%;
-  width: 200px;
-  height: 250px;
+  width: 250px;
+  height: 350px;
   transform: translateX(-10rem) rotate(-65deg);
   background-color: aqua;
 }
@@ -375,8 +375,8 @@
   position: absolute;
   top: 135%;
   left: 40%;
-  width: 200px;
-  height: 250px;
+  width: 250px;
+  height: 350px;
   transform: translateX(-10rem) rotate(-50deg);
   background-color: rgb(42, 53, 53);
 }
@@ -384,9 +384,9 @@
   position: absolute;
   top: 135%;
   left: 40%;
-  width: 200px;
-  height: 250px;
-  transform: translateX(-10rem) rotate(-35deg);
+  width: 250px;
+  height: 350px;
+  transform: translateX(-5rem) rotate(-35deg);
   background-color: rgb(31, 42, 42);
 }
 .card4{
