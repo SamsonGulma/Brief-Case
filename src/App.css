@@ -399,8 +399,8 @@
   transition: 700ms;
 }
 
-.card13:not(:hover) {
-  filter: opacity(100%);
+.card3:not(:hover) {
+  filter: opacity(80%);
   transform: rotate(-25deg) translateX(5rem) rotate(0deg);
   transition: 700ms;
 }
@@ -423,7 +423,7 @@
 }
 
 .card4:not(:hover){
-  filter: opacity(100%);
+  filter: opacity(95%);
   transform: rotate(0deg) translateX(10rem) rotate(-10deg);
   transition: 500ms;
 }
