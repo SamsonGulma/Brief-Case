@@ -87,7 +87,7 @@ function App() {
             Work
           </a>
           <a className='sideanchor' href='somewhere'>
-            About
+            About  
           </a>
           <a className='sideanchor' href='somewhere'>
             Contact

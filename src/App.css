@@ -346,13 +346,14 @@ section{
   position: absolute;
   top: 150%;
   left: 0%;
-  transform: rotate(-90deg);
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  margin-left: 20px;
 }
 
 .sideanchor{
   color: black;
-  padding-right: 40px;
-  
 }
 
 .github{
