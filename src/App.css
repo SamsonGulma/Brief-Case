@@ -1,9 +1,6 @@
 .App {
   text-align: center;
   background-color: white;
-  scroll-snap-type: y mandatory;
-  overflow: y;
-  height: 100vh;
 }
 
 
