@@ -9,9 +9,8 @@ import github from './assets/icons8-github-48.png'
 
 
 function App() {
-
-  
-  OnscrollEvents();
+      const section1 = document.getElementsByClassName('onFirst');
+  console.log(section1)
 
   useEffect(() => {
     AOS.init(
