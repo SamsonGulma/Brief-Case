@@ -362,6 +362,25 @@
   background-color: antiquewhite;
 }
 
+.card1{
+  background-color: aqua;
+}
+.card2{
+  background-color: rgb(42, 53, 53);
+}
+.card3{
+  background-color: rgb(31, 42, 42);
+}
+.card4{
+  background-color: rgb(15, 19, 19);
+}
+.card5{
+  background-color: rgb(137, 88, 188);
+}
+.card6{
+  background-color: rgb(91, 89, 48);
+}
+
 .github{
   width: 60px;
   height: 170px;
