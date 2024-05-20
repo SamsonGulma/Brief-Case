@@ -366,8 +366,8 @@
   position: absolute;
   top: 135%;
   left: 40%;
-  width: 250px;
-  height: 350px;
+  width: 350px;
+  height: 450px;
   transform: translateX(-7rem) rotate(-55deg);
   background-color: aqua;
 }
@@ -375,8 +375,8 @@
   position: absolute;
   top: 135%;
   left: 40%;
-  width: 250px;
-  height: 350px;
+  width: 350px;
+  height: 450px;
   transform: translateX(-1rem) rotate(-40deg);
   background-color: rgb(42, 53, 53);
 }
@@ -384,8 +384,8 @@
   position: absolute;
   top: 135%;
   left: 40%;
-  width: 250px;
-  height: 350px;
+  width: 350px;
+  height: 450px;
   transform: translateX(5rem) rotate(-25deg);
   background-color: rgb(31, 42, 42);
 }
@@ -393,8 +393,8 @@
   position: absolute;
   top: 135%;
   left: 40%;
-  width: 250px;
-  height: 350px;
+  width: 350px;
+  height: 450px;
   transform: translateX(10rem) rotate(-10deg);
   background-color: rgb(15, 19, 19);
 }
