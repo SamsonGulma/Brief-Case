@@ -413,6 +413,7 @@
   height: 450px;
   transform: translateX(10rem) rotate(-10deg);
   background-color: rgb(128, 239, 239);
+  border-radius: 50px;
   filter: opacity(95%);
 }
 
