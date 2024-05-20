@@ -24,7 +24,10 @@ function App() {
       <div  className='shape2'></div>
       <div  className='shape3'></div>
       <div  className='shape4'></div>
-      <div  className='shape5'></div>
+      <div className='shape5'></div>
+      <div className='shape6'></div>
+
+      
     
       
 
