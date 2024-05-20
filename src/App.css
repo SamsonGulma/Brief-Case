@@ -347,8 +347,7 @@ section{
   top: 140%;
   left: 0%;
   height: 480px;
-  display: flex;
-  flex-direction: column;
+  
   gap: 4rem;
   background-color: black;
 }
@@ -356,6 +355,8 @@ section{
 .sideanchor{
   color: white;
   background-color: black;
+  display: flex;
+  flex-direction: column;
   align-items: center;
   margin-top: 70px;
 }
