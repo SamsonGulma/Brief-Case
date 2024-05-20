@@ -8,12 +8,6 @@ import github from './assets/icons8-github-48.png'
 
 
 function App() {
-     /*
-     !!!! the on scroll event 
-     */
-    const section1 = document.getElementsByClassName('onFirst');
-    console.log(typeof (document.getElementsByClassName('onFirst')));
-
     
 
   useEffect(() => {
