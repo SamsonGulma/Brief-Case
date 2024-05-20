@@ -16,7 +16,7 @@
 .shape h3{
   position: relative;
   top: 20%;
-  right: -17%;
+  right: 0%;
   color: white;
   font-family: 'Courier New', Courier, monospace;
 }
@@ -70,32 +70,6 @@
   transition: 500ms;
 }
 
-.ipic{
-    animation: picanimate 3s infinite linear;
-
-}
-
-@keyframes picanimat {
-  0% {
-    transform: rotateX(-30deg);  
-  }
-
-  25% {
-    transform: rotateX(-20deg)
-  }
-
-  50% {
-    transform: rotateX(15deg);
-  }
-
-  75% {
-    transform: rotateX(20deg);
-  }
-
-  100% {
-    transform: rotateX(30deg);
-  }
-}
 
 .hey{
   width: 150px;
