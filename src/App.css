@@ -376,7 +376,7 @@
   width: 100px;
   height: 100px;
   background-color: rgb(42, 53, 53);
-  transform: rotate(15deg);
+  transform: rotate(10deg);
 }
 .card3{
   position:relative;
@@ -385,7 +385,7 @@
   width: 100px;
   height: 100px;
   background-color: rgb(31, 42, 42);
-  transform: rotate(20deg);
+  transform: rotate(10deg);
 }
 .card4{
   position:relative;
@@ -393,7 +393,7 @@
   width: 100px;
   height: 100px;
   background-color: rgb(15, 19, 19);
-  transform: rotate(30deg);
+  transform: rotate(10deg);
 }
 .card5{
   position:relative;
@@ -401,15 +401,15 @@
   width: 100px;
   height: 100px;
   background-color: rgb(137, 88, 188);
-  transform: rotate(35deg);
+  transform: rotate(10deg);
 }
 .card6{
-  position:relative;
+  position:absolute;
   top: 50%;
   width: 100px;
   height: 100px;
   background-color: rgb(91, 89, 48);
-  transform: rotate(40deg);
+  transform: rotate(10deg);
 }
 
 .github{
