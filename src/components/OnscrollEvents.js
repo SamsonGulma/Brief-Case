@@ -6,7 +6,7 @@ const OnscrollEvents = () => {
     console.log(typeof(section1))
     window.addEventListener('scroll', () => {
         const scrollOnY = window.scrollY;  
-        console.log(scrollOnY);
+        console.log( typeof(scrollOnY));
 
         if (scrollOnY === 20) {
             section1.style.backgroundColor = 'black';
