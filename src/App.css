@@ -182,7 +182,7 @@ section{
   border: none;
   font-size: larger;
   color: white;
-  background-color: #5c5f61;
+  background-color: rgb(60, 109, 242);
   align-items: center;
   border-radius: 28px;
 }
