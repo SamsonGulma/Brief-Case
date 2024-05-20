@@ -68,7 +68,6 @@ function App() {
           </a>
         </button>
 
-        <div className='pocket'> </div>
    </section>
       <div className='github'>
         <img src = {github} alt=''/>
@@ -77,6 +76,8 @@ function App() {
       </div>
 
       <section className='onSecond'>
+        <div className='pocket'> </div>
+
 
         <div className='sidenavbar'>
 

@@ -338,6 +338,7 @@ section{
 }
 
 .onSecond{
+  z-index: -1;
   background-color: black;
 }
 
