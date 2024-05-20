@@ -405,6 +405,7 @@
 .card4:hover{
   filter: opacity(100%);
   transform: rotate(0deg) translateX(30rem);
+  transition: 500ms;
 }
 
 .card:not(:hover){
