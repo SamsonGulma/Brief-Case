@@ -41,7 +41,7 @@ function App() {
         </div>
 
         
-        <div className='sam'><p>Sam</p></div>
+        <div className='sam'> <div className='dot'></div> <p>Sam</p></div>
         <img className='linkedin' src={linkedIn} alt=''
           onClick={() => {
             const pic = document.getSelection("pic")

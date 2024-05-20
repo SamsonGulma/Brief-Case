@@ -144,11 +144,19 @@ section{
   background-color: black;
   cursor: pointer;
 }
-
+.dot{
+  width: 10px;
+  height: 10px;
+  position: relative;
+  top: 10%;
+  right: 10%;
+  background-color: white;
+  float: right;
+}
 .sam p {
   font-family: 'Times New Roman', Times, serif;
   font-size: large;
-  font-weight: bold;
+  font-weight: bolder;
   padding-top: 30px;
   padding-left: 10px;
 }
