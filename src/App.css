@@ -375,7 +375,7 @@
 
 .card1:hover {
   filter: opacity(100%);
-  transform: rotate(0deg) translateX(40rem);
+  transform: rotate(0deg) translateX(-40rem);
   transition: 700ms;
 }
 
