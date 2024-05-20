@@ -10,7 +10,6 @@ import github from './assets/icons8-github-48.png'
 
 function App() {
 
-  <OnscrollEvents/>
 
   useEffect(() => {
     AOS.init(
