@@ -102,22 +102,22 @@ function App() {
 
         <div className='card1'>
           <p>
-            I have a good news
+            LinkedIn Clone
           </p>
           </div>
         <div className='card2'>
           <p>
-            Now another good news
+            Web-app for Cargo Shipping Company
           </p>
           </div>
         <div className='card3'>    
           <p>
-            Today is the one.
+            Customer Service Mobile App
           </p>
           </div>
         <div className='card4'> 
           <p>
-            Much more facinating
+            Much more facinating...
           </p>
           </div>
                      
