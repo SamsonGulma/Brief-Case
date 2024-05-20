@@ -344,7 +344,7 @@ section{
 
 .sidenavbar{
   position: absolute;
-  top: 140%;
+  top: 130%;
   left: 0%;
   display: flex;
   flex-direction: column;
@@ -393,4 +393,5 @@ section{
 
 .onThird{
   height: 100vh;
+  background-color: black;
 }
