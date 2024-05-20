@@ -347,7 +347,6 @@ section{
   top: 140%;
   left: 0%;
   display: flex;
-  flex-direction: row;
   gap: 4rem;
 }
 
