@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const OnscrollEvents = () => {
+const OnscrollEvents = () => {
     window.addEventListener('scroll', () => {
         const scrollOnY = window.scrollY;  
         console.log(scrollOnY);
@@ -10,3 +10,5 @@ export const OnscrollEvents = () => {
     <div></div>
   )
 }
+
+export default OnscrollEvents;
