@@ -42,9 +42,7 @@ function App() {
 
         
         <div className='sam'> <div className='dot'></div> <p>Sam</p></div>
-        <img className='linkedin' src={linkedIn} alt=''
-          onClick={location.href = "https://www.linkedin.com/in/samson-g-tekeste-4aa139229/"}/>
-        
+        <img className='linkedin' src={linkedIn} alt=''/>        
         <div className='btn-about'>
           <button className='aboutme'>
             About me
