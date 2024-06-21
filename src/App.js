@@ -101,6 +101,10 @@ function App() {
 
           <div className='slider'>
 
+            <div className='item'>
+              <img src='' alt=''/>
+            </div>
+
             <div className='card1'>
               <p>
                 LinkedIn Clone
