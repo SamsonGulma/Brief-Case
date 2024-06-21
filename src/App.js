@@ -99,7 +99,7 @@ function App() {
         
         <div className='banner'>
 
-          <div className='slider'style="--quantity: 10">
+          <div className='slider'style="--quantity: 4">
 
             <div className='item'style={"--position: 1"}> <img src={picture} alt=''/> </div>
             <div className='item'style={"--position: 2"}> <img src={picture} alt=''/> </div>
