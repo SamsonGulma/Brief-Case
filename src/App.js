@@ -99,32 +99,15 @@ function App() {
         
         <div className='banner'>
 
-          <div className='slider'>
+          <div className='slider'style="--quantity: 10">
 
-            <div className='item'>
-              <img src='' alt=''/>
-            </div>
+            <div className='item'style="--position: 1"> <img src='src/assets/picturei.jpg' alt='' /> </div>
+            <div className='item'style="--position: 2"> <img src='' alt='' /> </div>
+            <div className='item'style="--position: 3"> <img src='' alt='' /> </div>
+            <div className='item'style="--position: 4"> <img src='' alt='' /> </div>
 
-            <div className='card1'>
-              <p>
-                LinkedIn Clone
-              </p>
-              </div>
-            <div className='card2'>
-              <p>
-                Web-app for Cargo Shipping Company
-              </p>
-              </div>
-            <div className='card3'>    
-              <p>
-                Customer Service Mobile App
-              </p>
-              </div>
-            <div className='card4'> 
-              <p>
-                Much more facinating...
-              </p>
-              </div>
+
+            
           </div>
 
         </div>
