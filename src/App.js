@@ -96,6 +96,11 @@ function App() {
 
         </div>
 
+        
+        <div className='banner'>
+          
+        </div>
+
         <div className='card1'>
           <p>
             LinkedIn Clone
