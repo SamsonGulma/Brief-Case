@@ -25,7 +25,7 @@ function App() {
       
 
       <section className='onFirst'> 
-        <div className="App-header" data-aos="fade-down">
+        <div className="App-header" data-aos="zoom-in-down">
           
           Software<br />Engineering <br /> Student <br /> at ASTU 
         </div>
