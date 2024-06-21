@@ -98,29 +98,29 @@ function App() {
 
         
         <div className='banner'>
-          
+          <div className='card1'>
+            <p>
+              LinkedIn Clone
+            </p>
+            </div>
+          <div className='card2'>
+            <p>
+              Web-app for Cargo Shipping Company
+            </p>
+            </div>
+          <div className='card3'>    
+            <p>
+              Customer Service Mobile App
+            </p>
+            </div>
+          <div className='card4'> 
+            <p>
+              Much more facinating...
+            </p>
+            </div>
+
         </div>
 
-        <div className='card1'>
-          <p>
-            LinkedIn Clone
-          </p>
-          </div>
-        <div className='card2'>
-          <p>
-            Web-app for Cargo Shipping Company
-          </p>
-          </div>
-        <div className='card3'>    
-          <p>
-            Customer Service Mobile App
-          </p>
-          </div>
-        <div className='card4'> 
-          <p>
-            Much more facinating...
-          </p>
-          </div>
                      
               
               
