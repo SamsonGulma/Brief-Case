@@ -101,10 +101,10 @@ function App() {
 
           <div className='slider'style="--quantity: 10">
 
-            <div className='item'style="--position: 1"> <img src='src/assets/picturei.jpg' alt='' /> </div>
-            <div className='item'style="--position: 2"> <img src='' alt='' /> </div>
-            <div className='item'style="--position: 3"> <img src='' alt='' /> </div>
-            <div className='item'style="--position: 4"> <img src='' alt='' /> </div>
+            <div className='item'style={"--position: 1"}> <img src={picture} alt=''/> </div>
+            <div className='item'style={"--position: 2"}> <img src={picture} alt=''/> </div>
+            <div className='item'style={"--position: 3"}> <img src={picture} alt=''/> </div>
+            <div className='item'style={"--position: 4"}> <img src={picture} alt=''/> </div>
 
 
             
